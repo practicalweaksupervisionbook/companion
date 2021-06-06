@@ -1,0 +1,1 @@
+This is the code repository for the [Practical Weak Supervision](https://learning.oreilly.com/library/view/practical-weak-supervision/9781492077053/) O'Reilly book. 
