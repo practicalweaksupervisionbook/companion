@@ -90,7 +90,7 @@
 214 | www.politifact.com | true, true, half-true
 215 | www.politifact.com | pants-fire, half-true, pants-fire
 215 | www.factcheck.org | A Mitt Romney TV ad claims the Obama administration has adopted “a plan to gut welfare reform by dropping work requirements.” The plan does neither of those things.
-217 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/10/25/trumps-claim-that-hes-done-by-far-more-than-obama-in-the-fight-against-isis/?utm_term=.8800e625da94'
+217 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/10/25/trumps-claim-that-hes-done-by-far-more-than-obama-in-the-fight-against-isis/?utm_term=.8800e625da94'
 218 | www.politifact.com | false, false, mostly-true, barely-true
 219 | www.politifact.com | half-true, half-true
 221 | www.politifact.com | false
@@ -132,7 +132,7 @@
 319 | www.politifact.com | false
 328 | www.politifact.com | mostly-true, mostly-true, half-true, half-true, barely-true
 329 | www.politifact.com | barely-true
-329 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/12/29/in-a-30-minute-interview-president-trump-made-24-false-or-misleading-claims/?utm_term=.9b523619df67'
+329 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/12/29/in-a-30-minute-interview-president-trump-made-24-false-or-misleading-claims/?utm_term=.9b523619df67'
 335 | www.politifact.com | pants-fire, false, pants-fire, pants-fire, false
 336 | www.politifact.com | barely-true, pants-fire
 340 | www.politifact.com | mostly-true, true
@@ -219,7 +219,7 @@
 550 | www.politifact.com | false, half-true
 551 | www.politifact.com | pants-fire
 551 | www.factcheck.org | Asked if he would publicly reject the support of former Ku Klux Klan grand wizard David Duke, Republican presidential front-runner Donald Trump said, “I just don’t know anything about him.” That’s nonsense:
-551 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/03/01/donald-trump-and-david-duke-for-the-record/'
+551 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/03/01/donald-trump-and-david-duke-for-the-record/'
 553 | www.politifact.com | barely-true, half-true
 555 | www.politifact.com | barely-true, mostly-true
 558 | www.politifact.com | true
@@ -241,7 +241,7 @@
 594 | www.politifact.com | barely-true, mostly-true, half-true, pants-fire
 595 | www.politifact.com | pants-fire
 598 | www.politifact.com | false, false
-604 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/11/fact-checking-the-fourth-round-of-gop-debates/'
+604 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/11/fact-checking-the-fourth-round-of-gop-debates/'
 605 | www.politifact.com | true
 610 | www.politifact.com | barely-true, mostly-true, pants-fire, mostly-true, barely-true
 613 | www.politifact.com | barely-true, barely-true, false
@@ -279,7 +279,7 @@
 708 | www.politifact.com | abstain
 709 | www.politifact.com | mostly-true
 714 | www.politifact.com | half-true
-714 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/09/02/trumps-fuzzy-math-on-undocumented-immigrants-convicted-of-crimes/'
+714 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/09/02/trumps-fuzzy-math-on-undocumented-immigrants-convicted-of-crimes/'
 715 | www.politifact.com | false
 718 | www.politifact.com | false
 718 | www.snopes.com | abstain
@@ -299,7 +299,7 @@
 745 | www.politifact.com | barely-true, barely-true, barely-true, pants-fire
 746 | www.politifact.com | barely-true
 747 | www.politifact.com | false
-747 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/25/timeline-of-trumps-comments-on-iraq-invasion-not-loud-not-strong-and-no-headlines/'
+747 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/25/timeline-of-trumps-comments-on-iraq-invasion-not-loud-not-strong-and-no-headlines/'
 751 | www.politifact.com | abstain
 755 | www.politifact.com | false
 760 | www.politifact.com | false, barely-true
@@ -344,7 +344,7 @@
 850 | www.politifact.com | half-true, barely-true, mostly-true
 854 | www.politifact.com | half-true, mostly-true, mostly-true
 857 | www.factcheck.org | New Jersey Gov. Chris Christie on CBS’ “Face the Nation” contradicted two of his previous statements, on Planned Parenthood and Supreme Court Justice Sonia Sotomayor:
-857 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/12/chris-christie-and-planned-parenthood-either-misleading-now-or-misleading-then/'
+857 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/12/chris-christie-and-planned-parenthood-either-misleading-now-or-misleading-then/'
 858 | www.politifact.com | barely-true
 859 | www.politifact.com | half-true, half-true, false
 863 | www.politifact.com | half-true, half-true, half-true
@@ -367,7 +367,7 @@
 919 | www.politifact.com | half-true, mostly-true
 920 | www.politifact.com | abstain, false
 921 | www.politifact.com | barely-true, half-true
-922 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/20/trumps-false-claim-that-undocumented-immigrants-collect-social-security-benefits/'
+922 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/20/trumps-false-claim-that-undocumented-immigrants-collect-social-security-benefits/'
 927 | www.politifact.com | false, false
 927 | www.factcheck.org | abstain
 929 | www.politifact.com | half-true, barely-true
@@ -384,7 +384,7 @@
 966 | www.politifact.com | barely-true
 967 | www.politifact.com | half-true, abstain, abstain, barely-true, false, mostly-true, true
 969 | www.politifact.com | mostly-true, barely-true
-970 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/03/09/dnc-vice-chair-keith-ellison-and-louis-farrakhan-no-relationship/?utm_term=.3f5f58fac696'
+970 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/03/09/dnc-vice-chair-keith-ellison-and-louis-farrakhan-no-relationship/?utm_term=.3f5f58fac696'
 972 | www.politifact.com | false
 973 | www.politifact.com | barely-true
 976 | www.politifact.com | half-true, true
@@ -397,7 +397,7 @@
 992 | www.factcheck.org | Social media posts are spreading a quote falsely attributed to President Donald Trump about the coronavirus. He didn’t say, “People are dying who have never died before.” But Ernest Hemingway did.
 994 | www.politifact.com | half-true, mostly-true
 994 | www.factcheck.org | The question won’t go away: Did President Obama and administration officials mislead the public when they initially claimed that the deadly Sept. 11 attack on the U.S. consulate in Benghazi began “spontaneously” in response to an anti-Muslim video?
-994 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/30/is-hillary-clinton-a-liar-on-benghazi/'
+994 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/30/is-hillary-clinton-a-liar-on-benghazi/'
 995 | www.factcheck.org | A picture of a cow used for a research project in 2008 has been circulating on social media with a false claim that “fringe leftist[s] are now advocating for cow fart bags to capture farts as a way to help prevent ‘global warming.'” 
 1001 | www.politifact.com | false
 1005 | www.glennbeck.com | 'http://www.glennbeck.com/content/show/2015-05-13/'
@@ -460,7 +460,7 @@
 1146 | www.politifact.com | false, barely-true, barely-true
 1149 | www.politifact.com | false
 1152 | www.politifact.com | false, false
-1152 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/25/trumps-mixed-up-version-of-the-latest-hillary-clinton-controversy/?tid=sm_fb'
+1152 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/25/trumps-mixed-up-version-of-the-latest-hillary-clinton-controversy/?tid=sm_fb'
 1158 | www.politifact.com | barely-true
 1161 | www.politifact.com | barely-true, false, false
 1163 | www.politifact.com | mostly-true
@@ -472,7 +472,7 @@
 1177 | www.politifact.com | half-true, mostly-true
 1182 | www.politifact.com | true
 1184 | www.politifact.com | half-true, half-true
-1189 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/06/trumps-right-he-didnt-kick-a-baby-out-of-a-campaign-rally/'
+1189 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/06/trumps-right-he-didnt-kick-a-baby-out-of-a-campaign-rally/'
 1196 | www.politifact.com | pants-fire, false
 1196 | www.snopes.com | abstain
 1203 | www.politifact.com | false
@@ -545,7 +545,7 @@
 1389 | www.politifact.com | true, false
 1390 | www.politifact.com | mostly-true
 1395 | www.politifact.com | false, half-true
-1395 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/31/trumps-claim-taking-credit-for-cutting-600-million-from-the-f-35-program/?utm_term=.1dff960b32a3'
+1395 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/31/trumps-claim-taking-credit-for-cutting-600-million-from-the-f-35-program/?utm_term=.1dff960b32a3'
 1396 | www.politifact.com | pants-fire
 1397 | www.politifact.com | false, false
 1400 | www.politifact.com | mostly-true
@@ -580,7 +580,7 @@
 1472 | www.politifact.com | half-true
 1476 | www.politifact.com | barely-true, barely-true, pants-fire
 1484 | www.snopes.com | abstain
-1484 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/11/too-good-to-check-sean-hannitys-tale-of-a-trump-rescue/?arc404=true'
+1484 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/11/too-good-to-check-sean-hannitys-tale-of-a-trump-rescue/?arc404=true'
 1486 | www.politifact.com | mostly-true
 1489 | www.politifact.com | mostly-true
 1496 | www.politifact.com | false
@@ -610,7 +610,7 @@
 1567 | www.politifact.com | true, pants-fire, half-true, half-true
 1569 | www.politifact.com | pants-fire, half-true, mostly-true
 1577 | www.politifact.com | barely-true
-1577 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/28/do-80-percent-of-americans-oppose-sanctuary-cities/?utm_term=.1277168c4f0c'
+1577 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/28/do-80-percent-of-americans-oppose-sanctuary-cities/?utm_term=.1277168c4f0c'
 1578 | www.politifact.com | barely-true
 1579 | www.politifact.com | half-true
 1584 | www.politifact.com | false, half-true
@@ -652,7 +652,7 @@
 1678 | www.politifact.com | true
 1686 | www.politifact.com | mostly-true
 1688 | www.politifact.com | false, mostly-true, mostly-true
-1688 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/20/trumps-false-claim-that-undocumented-immigrants-collect-social-security-benefits/?postshare=1921471689236230&tid=ss_tw'
+1688 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/20/trumps-false-claim-that-undocumented-immigrants-collect-social-security-benefits/?postshare=1921471689236230&tid=ss_tw'
 1689 | www.politifact.com | true, false, barely-true, mostly-true, pants-fire
 1692 | www.politifact.com | barely-true
 1693 | www.politifact.com | true
@@ -767,7 +767,7 @@
 1959 | www.politifact.com | false
 1960 | www.politifact.com | half-true
 1963 | www.politifact.com | half-true
-1963 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/05/14/senate-majority-pacs-faulty-tax-math-in-the-n-c-senate-race/'
+1963 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/05/14/senate-majority-pacs-faulty-tax-math-in-the-n-c-senate-race/'
 1967 | www.politifact.com | false, pants-fire, pants-fire
 1970 | www.politifact.com | false
 1970 | www.snopes.com | abstain
@@ -788,7 +788,7 @@
 2018 | www.politifact.com | pants-fire
 2018 | www.snopes.com | abstain
 2019 | www.politifact.com | false
-2020 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/07/02/are-there-hundreds-of-thousands-of-sex-trafficked-runaways-in-the-united-states/'
+2020 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/07/02/are-there-hundreds-of-thousands-of-sex-trafficked-runaways-in-the-united-states/'
 2022 | www.politifact.com | half-true, abstain, abstain
 2024 | www.politifact.com | false
 2025 | www.politifact.com | abstain, false
@@ -822,7 +822,7 @@
 2102 | www.politifact.com | abstain
 2103 | www.politifact.com | half-true
 2107 | www.politifact.com | abstain, half-true
-2107 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/15/trumps-claim-that-recent-immigration-arrests-reflect-his-enforcement-policies/?utm_term=.a5182a5eba1f'
+2107 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/15/trumps-claim-that-recent-immigration-arrests-reflect-his-enforcement-policies/?utm_term=.a5182a5eba1f'
 2112 | www.politifact.com | false, mostly-true
 2114 | www.politifact.com | half-true, false, false
 2115 | www.politifact.com | true
@@ -857,10 +857,10 @@
 2196 | www.politifact.com | barely-true
 2196 | www.snopes.com | abstain
 2197 | www.politifact.com | false
-2197 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/09/heres-a-guide-to-the-sex-allegations-that-donald-trump-may-raise-in-the-presidential-debate/'
+2197 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/09/heres-a-guide-to-the-sex-allegations-that-donald-trump-may-raise-in-the-presidential-debate/'
 2201 | www.politifact.com | false
 2201 | www.snopes.com | abstain
-2204 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/12/30/giulianis-claim-the-white-house-invited-al-sharpton-up-to-85-times/?utm_term=.6152c6789d3b',  'https://www.washingtonpost.com/news/fact-checker/about-the-fact-checker/?utm_term=.7b63848232d2'
+2204 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/12/30/giulianis-claim-the-white-house-invited-al-sharpton-up-to-85-times/?utm_term=.6152c6789d3b',  'https://www.washingtonpost.com/news/fact-checker/about-the-fact-checker/?utm_term=.7b63848232d2'
 2210 | www.politifact.com | barely-true, false, pants-fire, half-true
 2210 | www.factcheck.org | A: No. The law requires the IRS mostly to hand out tax credits, not  collect penalties. The claim of 16,500 new agents stems from a partisan analysis based on guesswork and false assumptions, and compounded by outright misrepresentation.
 2214 | www.politifact.com | false
@@ -931,7 +931,7 @@
 2375 | www.politifact.com | false, false, half-true
 2376 | www.politifact.com | pants-fire
 2380 | www.politifact.com | false
-2380 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/02/trumps-fishy-suggestion-that-nearly-20-million-are-paying-an-obamacare-penalty/?utm_term=.50188d017962'
+2380 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/02/trumps-fishy-suggestion-that-nearly-20-million-are-paying-an-obamacare-penalty/?utm_term=.50188d017962'
 2381 | www.politifact.com | false, false
 2381 | www.snopes.com | abstain, abstain, abstain
 2389 | www.politifact.com | barely-true
@@ -984,7 +984,7 @@
 2514 | www.politifact.com | mostly-true
 2521 | www.politifact.com | abstain
 2522 | www.snopes.com | abstain
-2522 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/06/trumps-dubious-claim-that-the-911-hijackers-wives-knew-exactly-what-was-going-to-happen/'
+2522 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/06/trumps-dubious-claim-that-the-911-hijackers-wives-knew-exactly-what-was-going-to-happen/'
 2525 | www.politifact.com | barely-true
 2526 | www.politifact.com | false, false
 2529 | www.politifact.com | mostly-true, barely-true, mostly-true
@@ -1141,7 +1141,7 @@
 2915 | www.politifact.com | true, true
 2917 | www.politifact.com | half-true, half-true
 2921 | www.politifact.com | false, half-true
-2921 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/07/31/here-are-the-facts-about-the-debate-over-the-debates/'
+2921 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/07/31/here-are-the-facts-about-the-debate-over-the-debates/'
 2922 | www.politifact.com | true
 2923 | www.politifact.com | false
 2926 | www.politifact.com | half-true
@@ -1151,9 +1151,9 @@
 2941 | www.politifact.com | half-true
 2949 | www.politifact.com | half-true
 2951 | www.politifact.com | abstain
-2951 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/08/decoding-hhs-secretary-prices-spin-on-the-american-health-care-act/?utm_term=.640e30e8da00',  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/02/trumps-fishy-suggestion-that-nearly-20-million-are-paying-an-obamacare-penalty/?tid=a_inl&utm_term=.fd6b9f42df37'
+2951 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/08/decoding-hhs-secretary-prices-spin-on-the-american-health-care-act/?utm_term=.640e30e8da00',  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/02/trumps-fishy-suggestion-that-nearly-20-million-are-paying-an-obamacare-penalty/?tid=a_inl&utm_term=.fd6b9f42df37'
 2953 | www.politifact.com | barely-true, barely-true, barely-true
-2953 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/24/fact-checking-a-rosy-portrait-of-the-american-health-care-act/?utm_term=.0182791d6699'
+2953 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/24/fact-checking-a-rosy-portrait-of-the-american-health-care-act/?utm_term=.0182791d6699'
 2958 | www.politifact.com | false, pants-fire
 2958 | www.factcheck.org | A conspiracy theory falsely claims Bill Gates is plotting to use COVID-19 testing and a future vaccine to track people with microchips. The Gates Foundation has advocated for expanded testing and has funded vaccine research, but neither of those involves implanted microchips.
 2960 | www.politifact.com | true
@@ -1164,7 +1164,7 @@
 2975 | www.politifact.com | half-true, half-true
 2978 | www.snopes.com | abstain
 2980 | www.politifact.com | mostly-true, barely-true
-2980 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/11/democrats-misleading-claims-about-closing-the-no-fly-list-loophole/'
+2980 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/11/democrats-misleading-claims-about-closing-the-no-fly-list-loophole/'
 2982 | www.politifact.com | barely-true, true
 2983 | www.politifact.com | half-true
 2984 | www.politifact.com | true
@@ -1180,13 +1180,13 @@
 3018 | www.politifact.com | true, half-true
 3025 | www.politifact.com | false, mostly-true
 3027 | www.politifact.com | mostly-true, barely-true
-3027 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/30/does-the-united-states-really-have-five-percent-of-worlds-population-and-one-quarter-of-the-worlds-prisoners/',  'https://www.washingtonpost.com/news/fact-checker/wp/2015/07/07/yes-u-s-locks-people-up-at-a-higher-rate-than-any-other-country/'
+3027 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/30/does-the-united-states-really-have-five-percent-of-worlds-population-and-one-quarter-of-the-worlds-prisoners/',  'https://www.washingtonpost.com/news/fact-checker/wp/2015/07/07/yes-u-s-locks-people-up-at-a-higher-rate-than-any-other-country/'
 3029 | www.politifact.com | pants-fire
 3031 | www.politifact.com | half-true, barely-true, mostly-true
 3032 | www.politifact.com | half-true
 3040 | www.politifact.com | mostly-true
 3041 | www.politifact.com | mostly-true, mostly-true, barely-true, half-true, false
-3041 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/07/27/have-u-s-taxpayers-spent-72-million-on-trumps-golf-outings/?utm_term=.e763274cf67d'
+3041 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/07/27/have-u-s-taxpayers-spent-72-million-on-trumps-golf-outings/?utm_term=.e763274cf67d'
 3043 | www.politifact.com | true
 3045 | www.politifact.com | barely-true
 3046 | www.politifact.com | true, barely-true, mostly-true
@@ -1209,7 +1209,7 @@
 3078 | www.factcheck.org | Rep. Michele Bachmann was wrong on two counts when she claimed today’s poverty rate is “only slightly below where it was in 1964” and that the small improvement in the rate “came with a $20 trillion price tag.”
 3081 | www.politifact.com | mostly-true
 3086 | www.politifact.com | half-flip
-3090 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/14/jeff-sessionss-claim-that-an-aclu-settlement-with-chicago-caused-murders-to-spike/'
+3090 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/14/jeff-sessionss-claim-that-an-aclu-settlement-with-chicago-caused-murders-to-spike/'
 3096 | www.politifact.com | barely-true, pants-fire, pants-fire
 3100 | www.politifact.com | mostly-true, pants-fire
 3102 | www.politifact.com | mostly-true
@@ -1253,7 +1253,7 @@
 3237 | www.politifact.com | half-true, half-true
 3238 | www.politifact.com | half-true
 3241 | www.politifact.com | half-true
-3241 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/24/a-recent-supreme-court-appointment-in-an-election-year-without-controversy/'
+3241 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/24/a-recent-supreme-court-appointment-in-an-election-year-without-controversy/'
 3242 | www.politifact.com | false
 3242 | www.factcheck.org | A TV ad that falsely claimed that Democratic donor George Soros gave “hundreds of thousands of dollars” to Republican Ohio Gov. John Kasich has been revised.
 3243 | www.politifact.com | false, barely-true
@@ -1345,11 +1345,11 @@
 3494 | www.politifact.com | false
 3495 | www.politifact.com | barely-true
 3501 | www.politifact.com | barely-true, half-true, half-true
-3505 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/20/are-firearms-with-a-silencer-quiet/?utm_term=.6ea6a66d6df2'
+3505 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/20/are-firearms-with-a-silencer-quiet/?utm_term=.6ea6a66d6df2'
 3506 | www.politifact.com | full-flop
 3507 | www.politifact.com | mostly-true, half-true
 3507 | www.factcheck.org | Donald Trump says that “instead of taking charge” during the Benghazi attacks, then Secretary of State Hillary Clinton “decided to go home and sleep.” Clinton says she was continuously engaged in responding to the attack from the moment she learned of it in the afternoon and “did not sleep all night.”
-3507 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/fact-checking-the-benghazi-attacks-2/'
+3507 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/fact-checking-the-benghazi-attacks-2/'
 3509 | www.politifact.com | false
 3517 | www.politifact.com | half-true
 3521 | www.politifact.com | false
@@ -1369,9 +1369,9 @@
 3563 | www.politifact.com | false
 3564 | www.politifact.com | half-true, half-true
 3570 | www.politifact.com | mostly-true
-3570 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/02/18/fact-checking-trumps-error-filled-tweet-storm-about-the-russia-investigation/?hpid=hp_rhp-top-table-main_fact-checker-130pm%3Ahomepage%2Fstory&utm_term=.20a406af4177'
+3570 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/02/18/fact-checking-trumps-error-filled-tweet-storm-about-the-russia-investigation/?hpid=hp_rhp-top-table-main_fact-checker-130pm%3Ahomepage%2Fstory&utm_term=.20a406af4177'
 3574 | www.politifact.com | half-true
-3577 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/25/does-huma-abedin-have-ties-to-the-muslim-brotherhood/'
+3577 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/25/does-huma-abedin-have-ties-to-the-muslim-brotherhood/'
 3578 | www.snopes.com | abstain
 3579 | www.politifact.com | true, false
 3582 | www.snopes.com | abstain
@@ -1391,7 +1391,7 @@
 3616 | www.politifact.com | false
 3622 | www.politifact.com | true
 3624 | www.politifact.com | false, barely-true
-3627 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/22/bernie-sanderss-inaccurate-claim-that-the-two-koch-brothers-will-spend-more-than-either-major-party-on-2016-elections/'
+3627 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/22/bernie-sanderss-inaccurate-claim-that-the-two-koch-brothers-will-spend-more-than-either-major-party-on-2016-elections/'
 3630 | www.politifact.com | true, mostly-true
 3631 | www.politifact.com | true
 3632 | www.politifact.com | half-true, barely-true
@@ -1415,7 +1415,7 @@
 3674 | www.politifact.com | abstain, barely-true
 3678 | www.politifact.com | mostly-true
 3682 | www.politifact.com | false, barely-true, barely-true
-3682 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/28/do-russia-probe-attorneys-donations-to-democrats-threaten-their-independence/?utm_term=.144a7d1769a8'
+3682 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/28/do-russia-probe-attorneys-donations-to-democrats-threaten-their-independence/?utm_term=.144a7d1769a8'
 3684 | www.politifact.com | mostly-true
 3685 | www.politifact.com | barely-true
 3686 | www.politifact.com | barely-true, barely-true
@@ -1475,7 +1475,7 @@
 3831 | www.politifact.com | full-flop
 3832 | www.politifact.com | barely-true, barely-true
 3836 | www.politifact.com | barely-true
-3836 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/05/08/harry-reids-claim-that-the-koch-brothers-are-one-of-the-main-causes-of-climate-change/#comments'
+3836 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/05/08/harry-reids-claim-that-the-koch-brothers-are-one-of-the-main-causes-of-climate-change/#comments'
 3841 | www.politifact.com | false, pants-fire
 3841 | www.factcheck.org | A: The administration’s agreement to talk about writing a United Nations treaty to regulate arms exports and imports is a far cry from banning possession of firearms, which Obama says he doesn’t want to do and the Supreme Court has said can’t be done anyway.
 3843 | www.politifact.com | mostly-true
@@ -1535,7 +1535,7 @@
 3965 | www.politifact.com | half-true, mostly-true, half-true, barely-true
 3970 | www.politifact.com | mostly-true, half-true
 3970 | www.snopes.com | abstain
-3970 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/07/06/trump-falsely-claims-the-human-toll-of-illegal-immigration/'
+3970 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/07/06/trump-falsely-claims-the-human-toll-of-illegal-immigration/'
 3973 | www.politifact.com | mostly-true
 3975 | www.politifact.com | barely-true
 3979 | www.politifact.com | mostly-true
@@ -1548,7 +1548,7 @@
 3992 | www.politifact.com | mostly-true, true, mostly-true
 3995 | www.politifact.com | barely-true, mostly-true, false, mostly-true
 3997 | www.politifact.com | barely-true
-3997 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/09/21/carly-fiorinas-claim-that-307000-veterans-died-waiting-for-health-care/'
+3997 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/09/21/carly-fiorinas-claim-that-307000-veterans-died-waiting-for-health-care/'
 4008 | www.politifact.com | half-true, false, mostly-true, true, true, mostly-true
 4014 | www.politifact.com | true, pants-fire
 4014 | www.factcheck.org | A: No. Congress members and staffers will be required to buy insurance through the exchanges on Jan. 1.
@@ -1594,7 +1594,7 @@
 4115 | www.politifact.com | false
 4117 | www.politifact.com | true
 4119 | www.politifact.com | half-true, half-true, half-true, false
-4119 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/08/27/clintons-claims-about-receiving-or-sending-classified-material-on-her-private-email-system/?tid=a_inl',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/04/how-did-top-secret-emails-end-up-on-hillary-clintons-server/'
+4119 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/08/27/clintons-claims-about-receiving-or-sending-classified-material-on-her-private-email-system/?tid=a_inl',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/04/how-did-top-secret-emails-end-up-on-hillary-clintons-server/'
 4121 | www.politifact.com | false, true, pants-fire, pants-fire, false
 4122 | www.factcheck.org | A: Until 2014, members of Congress were covered by private insurance under the same system that covers all federal workers.
 4128 | www.politifact.com | half-true, true
@@ -1645,7 +1645,7 @@
 4268 | www.politifact.com | half-true, mostly-true
 4272 | www.politifact.com | half-true
 4275 | www.politifact.com | full-flop
-4275 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/06/21/fact-checking-claims-about-trumps-plan-to-stop-family-separations/?utm_term=.245b89d53053'
+4275 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/06/21/fact-checking-claims-about-trumps-plan-to-stop-family-separations/?utm_term=.245b89d53053'
 4284 | www.snopes.com | abstain
 4284 | www.factcheck.org | A $23.9 million mansion was falsely identified as Rep. Nancy Pelosi’s home in a viral meme. Pelosi actually lives in the same neighborhood in a $2.3 million house.
 4288 | www.politifact.com | half-true, barely-true, half-true, true
@@ -1674,7 +1674,7 @@
 4329 | www.politifact.com | mostly-true, true
 4330 | www.politifact.com | half-true, mostly-true
 4331 | www.politifact.com | barely-true
-4331 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/05/15/clintons-inaccurate-claim-that-immigrant-detention-facilities-have-a-legal-requirement-to-fill-beds/?utm_term=.bcb1a143de0c'
+4331 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/05/15/clintons-inaccurate-claim-that-immigrant-detention-facilities-have-a-legal-requirement-to-fill-beds/?utm_term=.bcb1a143de0c'
 4337 | www.politifact.com | abstain, abstain, true
 4342 | www.politifact.com | half-true
 4349 | www.politifact.com | mostly-true
@@ -1775,7 +1775,7 @@
 4629 | www.factcheck.org | In a mailer to Virginia voters, the conservative Heritage Action calls out President Obama for breaking his promise to save families up to $2,500 in premiums per year under his health care overhaul. But the group makes its own misleading claims about premiums in the process. 
 4633 | www.politifact.com | half-true 
 4636 | www.politifact.com | false, barely-true, abstain, half-true, half-true 
-4636 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/16/clintons-claim-that-40-percent-of-guns-are-sold-at-gun-shows-and-over-the-internet/' 
+4636 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/16/clintons-claim-that-40-percent-of-guns-are-sold-at-gun-shows-and-over-the-internet/' 
 4640 | www.politifact.com | half-true, mostly-true, pants-fire, mostly-true, false 
 4641 | www.politifact.com | mostly-true, true 
 4649 | www.politifact.com | pants-fire 
@@ -1846,13 +1846,13 @@
 4796 | www.politifact.com | half-true 
 4803 | www.politifact.com | false, barely-true, pants-fire, pants-fire, barely-true, pants-fire 
 4803 | www.factcheck.org | Donald Trump’s once delayed, and much anticipated, speech on Hillary Clinton’s character, included numerous false and misleading statements: 
-4803 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
+4803 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
 4804 | www.politifact.com | mostly-true, mostly-true 
 4805 | www.politifact.com | pants-fire 
 4808 | www.snopes.com | abstain 
 4808 | factcheck.afp.com | An image has been shared tens of thousands of times on Facebook alongside claims that doctors believe "the best way" to remove ticks from your skin is by using soap and a cotton ball. However, Health Canada, the Ontario Ministry of Health and the Canadian Lyme Disease Foundation actually say the best way to remove ticks is with fine-tipped tweezers. 
 4810 | www.politifact.com | false, false 
-4810 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/08/12/for-planned-parenthood-abortion-stats-3-percent-and-94-percent-are-both-misleading/?utm_term=.8eed872461e4' 
+4810 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/08/12/for-planned-parenthood-abortion-stats-3-percent-and-94-percent-are-both-misleading/?utm_term=.8eed872461e4' 
 4816 | www.politifact.com | mostly-true, abstain 
 4817 | www.politifact.com | false 
 4818 | www.snopes.com | abstain 
@@ -1895,7 +1895,7 @@
 4911 | www.politifact.com | barely-true 
 4912 | www.politifact.com | false, mostly-true 
 4917 | www.politifact.com | pants-fire, mostly-true 
-4917 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/02/heres-a-guide-to-clintons-claims-about-donald-trump/' 
+4917 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/02/heres-a-guide-to-clintons-claims-about-donald-trump/' 
 4920 | www.politifact.com | true 
 4922 | www.politifact.com | barely-true 
 4926 | www.politifact.com | barely-true, barely-true 
@@ -1915,7 +1915,7 @@
 4969 | www.politifact.com | barely-true 
 4973 | www.politifact.com | half-true, half-true, true 
 4975 | www.politifact.com | false, barely-true 
-4975 | www.washingtonpost.com/news/fact-checker/ | 'https://www.washingtonpost.com/news/fact-checker/wp/2018/02/20/bernie-sanders-resurrects-a-zombie-claim-on-gun-sales-without-background-checks/?utm_term=.93cda753fc4c' 
+4975 | www.washingtonpost.com/news/fact-checker | 'https://www.washingtonpost.com/news/fact-checker/wp/2018/02/20/bernie-sanders-resurrects-a-zombie-claim-on-gun-sales-without-background-checks/?utm_term=.93cda753fc4c' 
 4976 | www.politifact.com | half-true 
 4976 | www.snopes.com | abstain 
 4979 | www.politifact.com | half-true 
@@ -1942,7 +1942,7 @@
 5029 | www.snopes.com | abstain 
 5029 | www.factcheck.org | A fabricated newspaper clipping is circulating online claiming a teenage Pete Buttigieg was arrested in the late 1990s for killing dogs. The Twitter user who created the bogus story — and the newspaper that allegedly published it — say the clipping is a fake. 
 5040 | www.politifact.com | pants-fire, false, pants-fire, true, false 
-5040 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/24/recidivism-watch-spicer-uses-repeatedly-debunked-citations-for-trumps-voter-fraud-claims/?utm_term=.592f39e4078e' 
+5040 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/24/recidivism-watch-spicer-uses-repeatedly-debunked-citations-for-trumps-voter-fraud-claims/?utm_term=.592f39e4078e' 
 5042 | www.politifact.com | pants-fire, mostly-true, pants-fire, false, pants-fire 
 5043 | www.politifact.com | true 
 5048 | www.snopes.com | abstain 
@@ -1962,7 +1962,7 @@
 5080 | www.politifact.com | mostly-true 
 5094 | www.politifact.com | half-true 
 5098 | www.politifact.com | barely-true 
-5100 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/10/25/trumps-claim-that-hes-done-by-far-more-than-obama-in-the-fight-against-isis/?utm_term=.8800e625da94' 
+5100 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/10/25/trumps-claim-that-hes-done-by-far-more-than-obama-in-the-fight-against-isis/?utm_term=.8800e625da94' 
 5108 | www.politifact.com | mostly-true, false 
 5112 | www.politifact.com | half-true 
 5115 | www.snopes.com | abstain, abstain 
@@ -1996,7 +1996,7 @@
 5173 | www.politifact.com | full-flop 
 5174 | www.politifact.com | false 
 5175 | www.politifact.com | true 
-5175 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/30/does-the-united-states-really-have-five-percent-of-worlds-population-and-one-quarter-of-the-worlds-prisoners/' 
+5175 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/30/does-the-united-states-really-have-five-percent-of-worlds-population-and-one-quarter-of-the-worlds-prisoners/' 
 5176 | www.politifact.com | half-true, half-true, half-true, half-true 
 5177 | www.politifact.com | true 
 5186 | www.politifact.com | true 
@@ -2009,7 +2009,7 @@
 5201 | www.politifact.com | false, half-true, false 
 5202 | www.politifact.com | barely-true, half-true, barely-true 
 5203 | www.politifact.com | false 
-5209 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/30/the-number-of-people-affected-by-trumps-travel-ban-about-90000/?utm_term=.1f43af9400ef' 
+5209 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/30/the-number-of-people-affected-by-trumps-travel-ban-about-90000/?utm_term=.1f43af9400ef' 
 5210 | www.politifact.com | barely-true, half-true 
 5211 | www.politifact.com | barely-true, half-true 
 5212 | www.politifact.com | mostly-true 
@@ -2056,7 +2056,7 @@
 5327 | www.politifact.com | false 
 5330 | www.snopes.com | abstain 
 5332 | www.politifact.com | barely-true 
-5333 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/11/sanderss-claim-that-he-does-not-have-a-super-pac/' 
+5333 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/11/sanderss-claim-that-he-does-not-have-a-super-pac/' 
 5335 | www.politifact.com | true, true 
 5336 | www.politifact.com | mostly-true, half-true 
 5337 | www.politifact.com | barely-true, false 
@@ -2194,10 +2194,10 @@
 5654 | www.politifact.com | barely-true 
 5655 | www.politifact.com | barely-true 
 5657 | www.politifact.com | barely-true, true, barely-true, true 
-5657 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/03/26/ted-cruzs-claim-that-there-has-been-zero-global-warming-in-17-years/' 
+5657 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/03/26/ted-cruzs-claim-that-there-has-been-zero-global-warming-in-17-years/' 
 5663 | www.politifact.com | true 
 5664 | www.politifact.com | mostly-true, half-true 
-5664 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/02/04/the-missing-context-behind-a-widely-cited-statistic-that-there-are-22-veteran-suicides-a-day/',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/07/13/trump-correctly-uses-new-statistic-that-there-are-20-veteran-suicides-a-day/?hpid=hp_special-topic-chain_fact-checker-630a-camp%3Ahomepage%2Fstory' 
+5664 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/02/04/the-missing-context-behind-a-widely-cited-statistic-that-there-are-22-veteran-suicides-a-day/',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/07/13/trump-correctly-uses-new-statistic-that-there-are-20-veteran-suicides-a-day/?hpid=hp_special-topic-chain_fact-checker-630a-camp%3Ahomepage%2Fstory' 
 5665 | www.politifact.com | false, barely-true 
 5669 | www.politifact.com | false, half-true 
 5673 | www.politifact.com | half-true 
@@ -2229,7 +2229,7 @@
 5725 | www.politifact.com | false 
 5725 | www.factcheck.org | Widely shared posts on Facebook purport to show photos of law professor Pamela Karlan, who testified in support of President Donald Trump’s impeachment, dressed in pro-feminist attire at two different events. Karlan told us she did not attend either event. 
 5726 | www.politifact.com | false, pants-fire, pants-fire, pants-fire 
-5728 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/22/donald-trumps-outrageous-claim-that-thousands-of-new-jersey-muslims-celebrated-the-911-attacks/' 
+5728 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/22/donald-trumps-outrageous-claim-that-thousands-of-new-jersey-muslims-celebrated-the-911-attacks/' 
 5731 | www.politifact.com | barely-true, true, barely-true 
 5733 | www.politifact.com | pants-fire, barely-true, pants-fire, false, barely-true, false, false 
 5736 | www.politifact.com | false 
@@ -2337,7 +2337,7 @@
 5949 | www.politifact.com | mostly-true 
 5951 | www.politifact.com | false, false, false, false, pants-fire 
 5951 | www.snopes.com | abstain 
-5953 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/02/04/the-missing-context-behind-a-widely-cited-statistic-that-there-are-22-veteran-suicides-a-day/?utm_term=.02a9f86611bb' 
+5953 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/02/04/the-missing-context-behind-a-widely-cited-statistic-that-there-are-22-veteran-suicides-a-day/?utm_term=.02a9f86611bb' 
 5955 | www.politifact.com | half-true 
 5956 | www.politifact.com | mostly-true, false, barely-true 
 5957 | www.politifact.com | barely-true 
@@ -2350,7 +2350,7 @@
 5977 | www.politifact.com | abstain 
 5978 | www.politifact.com | mostly-true 
 5980 | www.politifact.com | barely-true 
-5984 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/05/trumps-evidence-for-obama-wiretap-claims-relies-on-sketchy-anonymously-sourced-reports/?utm_term=.7543d9d2c684' 
+5984 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/05/trumps-evidence-for-obama-wiretap-claims-relies-on-sketchy-anonymously-sourced-reports/?utm_term=.7543d9d2c684' 
 5988 | www.politifact.com | false, barely-true, mostly-true 
 5992 | www.politifact.com | half-true 
 5999 | www.politifact.com | false 
@@ -2473,7 +2473,7 @@
 6313 | www.politifact.com | mostly-true 
 6314 | www.politifact.com | true 
 6315 | www.politifact.com | mostly-true, true, mostly-true 
-6315 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/14/hillary-clintons-claim-that-sanders-voted-for-the-charleston-loophole/' 
+6315 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/14/hillary-clintons-claim-that-sanders-voted-for-the-charleston-loophole/' 
 6316 | www.politifact.com | pants-fire 
 6325 | www.snopes.com | abstain 
 6332 | www.politifact.com | mostly-true 
@@ -2501,7 +2501,7 @@
 6385 | www.politifact.com | pants-fire 
 6390 | www.politifact.com | barely-true 
 6391 | www.politifact.com | mostly-true 
-6395 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/24/trumps-unsupported-claim-he-has-received-awards-on-the-environment/?utm_term=.7e72cc999ddc' 
+6395 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/24/trumps-unsupported-claim-he-has-received-awards-on-the-environment/?utm_term=.7e72cc999ddc' 
 6396 | www.factcheck.org | abstain 
 6397 | www.politifact.com | pants-fire 
 6403 | www.politifact.com | half-true 
@@ -2510,7 +2510,7 @@
 6410 | www.politifact.com | false, half-true, false 
 6411 | www.politifact.com | false, mostly-true, half-true 
 6412 | www.snopes.com | abstain 
-6412 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/13/did-the-clinton-foundation-raise-hundreds-of-millions-of-dollars-for-a-hospital-in-haiti-that-was-never-built/?utm_term=.ff4d7a73426e' 
+6412 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/13/did-the-clinton-foundation-raise-hundreds-of-millions-of-dollars-for-a-hospital-in-haiti-that-was-never-built/?utm_term=.ff4d7a73426e' 
 6415 | www.politifact.com | barely-true, mostly-true, false 
 6424 | www.politifact.com | pants-fire 
 6434 | www.politifact.com | mostly-true, mostly-true 
@@ -2554,7 +2554,7 @@
 6530 | www.factcheck.org | Two Republican presidential candidates claim the so-called “birther” movement originated with the Hillary Clinton campaign in 2008. While it’s true that some of her ardent supporters pushed the theory, there is no evidence that Clinton or her campaign had anything to do with it. 
 6532 | www.politifact.com | barely-true 
 6543 | www.politifact.com | half-true 
-6543 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/17/rubio-campaign-ad-echoes-a-false-donald-trump-claim/' 
+6543 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/17/rubio-campaign-ad-echoes-a-false-donald-trump-claim/' 
 6547 | www.politifact.com | pants-fire 
 6549 | www.politifact.com | barely-true, half-true, false 
 6551 | www.factcheck.org | abstain 
@@ -2581,7 +2581,7 @@
 6612 | www.politifact.com | barely-true 
 6614 | www.politifact.com | false, false 
 6618 | www.politifact.com | true 
-6618 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/02/donald-trumps-revisionist-history-of-mocking-a-disabled-reporter/?hpid=hp_hp-cards_hp-card-politics%3Ahomepage%2Fcard',  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/22/donald-trumps-outrageous-claim-that-thousands-of-new-jersey-muslims-celebrated-the-911-attacks/' 
+6618 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/02/donald-trumps-revisionist-history-of-mocking-a-disabled-reporter/?hpid=hp_hp-cards_hp-card-politics%3Ahomepage%2Fcard',  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/22/donald-trumps-outrageous-claim-that-thousands-of-new-jersey-muslims-celebrated-the-911-attacks/' 
 6620 | www.politifact.com | true, mostly-true 
 6623 | www.politifact.com | barely-true 
 6624 | www.politifact.com | mostly-true 
@@ -2603,14 +2603,14 @@
 6672 | www.politifact.com | false 
 6673 | www.politifact.com | abstain 
 6674 | www.politifact.com | false, barely-true 
-6674 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/01/firoinas-claim-that-hillary-clinton-supports-abortion-up-until-the-moment-of-birth/' 
+6674 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/01/firoinas-claim-that-hillary-clinton-supports-abortion-up-until-the-moment-of-birth/' 
 6676 | www.snopes.com | abstain 
 6676 | factcheck.afp.com | A picture of a shell-shocked Syrian girl being carried by three different rescuers has been widely shared on social networks since 2016. Some accuse the media of staging the scenes while others say the girl miraculously survived three separate attacks. Both these statements are false: the three pictures were taken by a freelancer for AFP after a single attack in Aleppo. 
 6677 | www.politifact.com | half-true 
 6679 | www.politifact.com | mostly-true, true, true, half-true, half-true, half-true 
 6685 | www.politifact.com | mostly-true, barely-true 
 6687 | www.politifact.com | half-true, full-flop, half-true, pants-fire 
-6687 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/14/bernie-sanderss-claim-that-36000-people-will-die-yearly-if-obamacare-is-repealed/?utm_term=.07c15cb9598f' 
+6687 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/14/bernie-sanderss-claim-that-36000-people-will-die-yearly-if-obamacare-is-repealed/?utm_term=.07c15cb9598f' 
 6688 | www.snopes.com | abstain 
 6689 | www.politifact.com | barely-true 
 6690 | www.politifact.com | pants-fire 
@@ -2662,7 +2662,7 @@
 6853 | www.snopes.com | abstain, abstain 
 6854 | www.politifact.com | pants-fire 
 6858 | www.factcheck.org | Asked if he would publicly reject the support of former Ku Klux Klan grand wizard David Duke, Republican presidential front-runner Donald Trump said, “I just don’t know anything about him.” That’s nonsense: 
-6858 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/03/01/donald-trump-and-david-duke-for-the-record/' 
+6858 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/03/01/donald-trump-and-david-duke-for-the-record/' 
 6866 | www.snopes.com | abstain 
 6866 | www.factcheck.org | We continue to receive queries about claims and theories advanced by "birthers," who wish to believe that Barack Obama is not a natural-born citizen of the USA or that he somehow gave up his citizenship and thus is not qualified to hold the office he occupies. One is a claim, first advanced last year, that his trip to Pakistan in 1981 proves he must not have been a U.S. citizen because Americans were not permitted to travel there at the time. 
 6867 | www.politifact.com | abstain 
@@ -2686,7 +2686,7 @@
 6923 | www.glennbeck.com |  'http://www.glennbeck.com/2011/05/16/the-only-candidate-glenn-has-ever-endorsed-dan-adler/?utm_source=glennbeck&utm_medium=contentcopy_link' 
 6935 | www.politifact.com | true, barely-true, barely-true, half-true 
 6936 | www.snopes.com | abstain 
-6936 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/04/the-kooky-tale-of-cocaine-mitch/' 
+6936 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/04/the-kooky-tale-of-cocaine-mitch/' 
 6941 | www.politifact.com | abstain 
 6944 | www.politifact.com | pants-fire 
 6944 | www.snopes.com | abstain 
@@ -2725,7 +2725,7 @@
 7018 | www.factcheck.org | Republican presidential candidate Carly Fiorina says that “so little” of the charitable donations to the Clinton Foundation “actually go to charitable works” — a figure CARLY for America later put at about 6 percent of its annual revenues — but Fiorina is simply wrong. 
 7020 | www.politifact.com | barely-true, false 
 7021 | www.realclearpolitics.com |  'https://www.realclearpolitics.com/epolls/2020/governor/nc/north_carolina_governor_cooper_vs_forest-6750.html' 
-7024 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/02/senate-democrats-misleading-language-on-a-60-vote-standard-for-supremer-court-nominees/?utm_term=.7ec3d93e6d98' 
+7024 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/02/senate-democrats-misleading-language-on-a-60-vote-standard-for-supremer-court-nominees/?utm_term=.7ec3d93e6d98' 
 7025 | www.politifact.com | half-true, mostly-true 
 7028 | www.politifact.com | mostly-true 
 7028 | www.realclearpolitics.com | 'http://www.realclearpolitics.com/video/2016/04/24/bernie_sanders_in_baltimore_poverty_is_a_death_sentence_similar_to_palestine_or_north_korea.html' 
@@ -2757,7 +2757,7 @@
 7096 | www.politifact.com | true, half-true 
 7097 | www.politifact.com | barely-true, mostly-true, barely-true 
 7097 | www.factcheck.org | The mass shooting in Orlando by a man who pledged allegiance to the terrorist Islamic State has reignited a debate in Washington over suspected terrorists’ access to guns in the U.S. But we find fault with some of the claims made by both sides in the debate: 
-7097 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/21/does-a-known-or-suspected-terrorist-face-a-long-waiting-period-before-buying-a-gun/' 
+7097 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/21/does-a-known-or-suspected-terrorist-face-a-long-waiting-period-before-buying-a-gun/' 
 7100 | www.politifact.com | true, true 
 7101 | www.politifact.com | abstain 
 7102 | www.politifact.com | half-true 
@@ -2778,10 +2778,10 @@
 7136 | www.politifact.com | mostly-true 
 7136 | www.snopes.com | abstain 
 7145 | www.politifact.com | half-true, mostly-true 
-7145 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/02/senator-mccaskills-misfired-tweet-on-contacts-with-the-russian-ambassador/?utm_term=.acfdc4f45347' 
+7145 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/02/senator-mccaskills-misfired-tweet-on-contacts-with-the-russian-ambassador/?utm_term=.acfdc4f45347' 
 7146 | www.politifact.com | false, half-true, abstain 
 7148 | www.politifact.com | half-true 
-7148 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/05/05/warrens-false-claim-that-auto-dealer-markups-cost-consumers-26-billion-a-year/' 
+7148 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/05/05/warrens-false-claim-that-auto-dealer-markups-cost-consumers-26-billion-a-year/' 
 7149 | www.politifact.com | half-true, half-true 
 7150 | www.politifact.com | half-true 
 7151 | www.politifact.com | half-true 
@@ -2862,7 +2862,7 @@
 7356 | www.politifact.com | barely-true 
 7357 | www.politifact.com | false 
 7362 | www.politifact.com | pants-fire 
-7364 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/13/stephen-millers-claim-that-72-from-banned-countries-were-implicated-in-terroristic-activity/?utm_term=.59e52191de8b' 
+7364 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/13/stephen-millers-claim-that-72-from-banned-countries-were-implicated-in-terroristic-activity/?utm_term=.59e52191de8b' 
 7368 | www.politifact.com | false, false, pants-fire, pants-fire, pants-fire 
 7371 | www.politifact.com | barely-true, barely-true 
 7373 | www.politifact.com | barely-true 
@@ -2919,13 +2919,13 @@
 7500 | www.politifact.com | mostly-true, mostly-true 
 7504 | www.politifact.com | barely-true 
 7508 | www.politifact.com | barely-true 
-7510 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/02/heres-a-guide-to-clintons-claims-about-donald-trump/' 
+7510 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/02/heres-a-guide-to-clintons-claims-about-donald-trump/' 
 7512 | www.factcheck.org | A conservative group accuses Sen. Jeanne Shaheen in a TV ad of “profiting from her votes in Congress.” But the scandal is how the group distorts the facts. 
 7517 | www.politifact.com | mostly-true, false, false, false, abstain, false, barely-true, half-true, pants-fire, abstain, half-true, false, mostly-true, false, barely-true 
 7521 | www.politifact.com | pants-fire 
 7522 | www.politifact.com | half-true 
 7523 | www.politifact.com | mostly-true, mostly-true 
-7523 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/14/the-facts-about-the-estate-tax-and-farmers/?utm_term=.c1462ceb262d' 
+7523 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/14/the-facts-about-the-estate-tax-and-farmers/?utm_term=.c1462ceb262d' 
 7529 | www.politifact.com | half-true 
 7532 | www.politifact.com | pants-fire 
 7535 | www.politifact.com | abstain, pants-fire, abstain, abstain, abstain 
@@ -2936,7 +2936,7 @@
 7556 | www.politifact.com | false 
 7557 | www.politifact.com | half-true, half-true, false, mostly-true 
 7561 | www.politifact.com | barely-true, false, false 
-7561 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/25/trumps-mixed-up-version-of-the-latest-hillary-clinton-controversy/?tid=sm_fb' 
+7561 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/25/trumps-mixed-up-version-of-the-latest-hillary-clinton-controversy/?tid=sm_fb' 
 7564 | www.politifact.com | half-true, barely-true, half-true, half-true, mostly-true 
 7566 | www.politifact.com | half-true 
 7567 | www.politifact.com | mostly-true 
@@ -2947,25 +2947,25 @@
 7575 | www.politifact.com | half-true 
 7581 | www.politifact.com | mostly-true 
 7585 | www.politifact.com | half-true 
-7585 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/01/12/is-the-trump-tax-cut-good-or-bad-for-the-middle-class/?utm_term=.dad90fcc5412' 
+7585 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/01/12/is-the-trump-tax-cut-good-or-bad-for-the-middle-class/?utm_term=.dad90fcc5412' 
 7587 | www.politifact.com | false, false, pants-fire 
 7587 | www.factcheck.org | A: The administration’s agreement to talk about writing a United Nations treaty to regulate arms exports and imports is a far cry from banning possession of firearms, which Obama says he doesn’t want to do and the Supreme Court has said can’t be done anyway.
 7593 | www.politifact.com | barely-true, mostly-true 
 7598 | www.factcheck.org | White House Press Secretary Sean Spicer claimed that “because of Obamacare, premiums on everybody have gone up … whether you’re in an employer-based system or not.” Employer premiums have been affected somewhat, but they’ve been growing at historically low rates for several years. 
-7598 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/09/republicans-once-again-rely-on-a-misleading-obamacare-factoid/?utm_term=.3b04fa361f45' 
+7598 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/09/republicans-once-again-rely-on-a-misleading-obamacare-factoid/?utm_term=.3b04fa361f45' 
 7600 | www.politifact.com | half-true, false 
 7602 | www.politifact.com | true, barely-true 
 7603 | www.politifact.com | barely-true, half-true, barely-true, mostly-true, false, mostly-true 
 7605 | www.factcheck.org | abstain 
 7609 | www.politifact.com | true, barely-true, half-true, mostly-true 
 7610 | www.politifact.com | false, mostly-true 
-7610 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/23/how-is-a-ban-on-pre-existing-conditions-preserved-in-the-gop-replacement-bill/' 
+7610 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/23/how-is-a-ban-on-pre-existing-conditions-preserved-in-the-gop-replacement-bill/' 
 7619 | www.politifact.com | true 
 7623 | www.politifact.com | false, barely-true 
 7623 | www.factcheck.org | Republicans cite a new survey to claim health insurance premiums are up 90 percent in New Hampshire because of the Affordable Care Act. But that figure is based on just one insurance broker in the state. 
 7626 | www.politifact.com | true 
 7627 | www.politifact.com | pants-fire, pants-fire, pants-fire, false 
-7627 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/11/29/trump-camps-repeated-use-of-dubious-sources-on-voter-fraud/?hpid=hp_rhp-top-table-main_fix-twitter-720a%3Ahomepage%2Fstory' 
+7627 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/11/29/trump-camps-repeated-use-of-dubious-sources-on-voter-fraud/?hpid=hp_rhp-top-table-main_fix-twitter-720a%3Ahomepage%2Fstory' 
 7628 | www.politifact.com | abstain, abstain 
 7629 | www.politifact.com | false 
 7629 | www.realclearpolitics.com | 'https://www.realclearpolitics.com/video/2019/12/03/trump_during_nato_summit_adam_schiff_is_a_deranged_human_being_he_lies.html' 
@@ -2989,7 +2989,7 @@
 7660 | www.politifact.com | false 
 7661 | www.politifact.com | false 
 7667 | www.politifact.com | half-true, barely-true, true 
-7667 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/26/600-requests-from-benghazi-for-better-security-what-this-statistic-really-means/' 
+7667 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/26/600-requests-from-benghazi-for-better-security-what-this-statistic-really-means/' 
 7671 | www.politifact.com | true 
 7674 | www.politifact.com | full-flop 
 7677 | www.politifact.com | half-true 
@@ -3005,7 +3005,7 @@
 7709 | www.politifact.com | mostly-true 
 7710 | www.politifact.com | false 
 7710 | www.factcheck.org | Two Republican presidential candidates claim the so-called “birther” movement originated with the Hillary Clinton campaign in 2008. While it’s true that some of her ardent supporters pushed the theory, there is no evidence that Clinton or her campaign had anything to do with it., Donald Trump again has repeated the false claim that Hillary Clinton “started” the so-called “birther” movement against Barack Obama in 2008. 
-7710 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/06/donald-trumps-ridiculous-claim-that-hillary-clinton-started-the-birther-movement/' 
+7710 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/06/donald-trumps-ridiculous-claim-that-hillary-clinton-started-the-birther-movement/' 
 7711 | www.factcheck.org | On the same day ISIS claimed responsibility for a deadly attack against U.S. service members in Syria, Vice President Mike Pence declared that ISIS “has been defeated.” It is true that the U.S. and its allies have retaken virtually all of the land ISIS controlled in Iraq and Syria, but experts say the group still has tens of thousands of fighters and remains dangerous. 
 7714 | www.snopes.com | abstain 
 7721 | www.factcheck.org | abstain 
@@ -3120,7 +3120,7 @@
 7987 | www.politifact.com | abstain, abstain 
 7987 | www.factcheck.org | President Obama’s first 2012 campaign ad misleads on ethics, “clean-energy” jobs and U.S. dependence on oil imports. 
 7989 | www.politifact.com | mostly-true, abstain, mostly-true, barely-true, half-true 
-7989 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/01/25/a-white-house-chart-on-chain-migration-has-numbers-that-add-up-but-lacks-context/?utm_term=.373ade35d0f3' 
+7989 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/01/25/a-white-house-chart-on-chain-migration-has-numbers-that-add-up-but-lacks-context/?utm_term=.373ade35d0f3' 
 7991 | www.politifact.com | half-true, half-true 
 7992 | www.politifact.com | false, barely-true 
 7994 | www.politifact.com | half-true, half-true, half-true 
@@ -3136,7 +3136,7 @@
 8027 | www.politifact.com | mostly-true, true 
 8029 | www.politifact.com | pants-fire, half-true, pants-fire, half-true 
 8030 | www.politifact.com | true 
-8030 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/23/a-bushel-of-flip-flops-on-approving-judicial-nominees/' 
+8030 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/23/a-bushel-of-flip-flops-on-approving-judicial-nominees/' 
 8034 | www.politifact.com | half-true 
 8036 | www.politifact.com | barely-true, mostly-true, barely-true, mostly-true 
 8036 | www.realclearpolitics.com |  'http://www.realclearpolitics.com/articles/2016/06/24/vulnerable_gop_senators_split_on_gun_bills_130992.html' 
@@ -3229,7 +3229,7 @@
 8314 | www.politifact.com | abstain 
 8315 | www.politifact.com | true, true, mostly-true 
 8317 | www.realclearpolitics.com | 'http://www.realclearpolitics.com/video/2013/01/29/rush_limbaugh_interviews_sen_marco_rubio_about_immigration_plan.html' 
-8318 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/17/for-the-record-wh-budget-director-did-not-say-meals-on-wheels-did-not-show-results/?utm_term=.ff89d0ea66be' 
+8318 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/17/for-the-record-wh-budget-director-did-not-say-meals-on-wheels-did-not-show-results/?utm_term=.ff89d0ea66be' 
 8319 | www.politifact.com | false 
 8324 | www.politifact.com | mostly-true, false 
 8326 | www.politifact.com | half-true 
@@ -3286,7 +3286,7 @@
 8448 | www.politifact.com | mostly-true 
 8449 | www.politifact.com | false 
 8450 | www.politifact.com | half-true 
-8451 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/25/trumps-false-claim-that-isis-is-making-a-fortune-on-libyan-oil/' 
+8451 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/25/trumps-false-claim-that-isis-is-making-a-fortune-on-libyan-oil/' 
 8452 | www.politifact.com | half-true 
 8454 | www.politifact.com | half-true 
 8456 | www.politifact.com | barely-true 
@@ -3306,7 +3306,7 @@
 8504 | www.politifact.com | false 
 8505 | www.politifact.com | false, pants-fire, false 
 8513 | www.politifact.com | mostly-true, mostly-true 
-8513 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/10/a-dark-money-groups-misleading-claim-that-the-puerto-rico-debt-plan-is-a-bailout/' 
+8513 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/10/a-dark-money-groups-misleading-claim-that-the-puerto-rico-debt-plan-is-a-bailout/' 
 8514 | www.politifact.com | half-flip, full-flop, half-true, barely-true, mostly-true, barely-true 
 8521 | www.politifact.com | false 
 8522 | www.politifact.com | half-true 
@@ -3318,7 +3318,7 @@
 8538 | www.politifact.com | false 
 8539 | www.politifact.com | half-true 
 8541 | www.politifact.com | barely-true 
-8543 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/26/president-trumps-claim-that-hes-already-saved-millions-of-jobs-on-his-foreign-trip/?utm_term=.916112dddc43' 
+8543 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/26/president-trumps-claim-that-hes-already-saved-millions-of-jobs-on-his-foreign-trip/?utm_term=.916112dddc43' 
 8546 | www.politifact.com | half-true 
 8547 | www.politifact.com | mostly-true 
 8551 | www.politifact.com | abstain 
@@ -3442,12 +3442,12 @@
 8898 | www.politifact.com | mostly-true 
 8902 | www.politifact.com | false, barely-true, barely-true, half-true 
 8904 | www.snopes.com | abstain 
-8904 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/09/06/the-zombie-claim-that-hillary-clinton-was-fired-during-the-watergate-inquiry/?utm_term=.bf0421556187' 
+8904 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/09/06/the-zombie-claim-that-hillary-clinton-was-fired-during-the-watergate-inquiry/?utm_term=.bf0421556187' 
 8912 | www.politifact.com | barely-true, barely-true, barely-true, half-true, barely-true 
 8915 | www.snopes.com | abstain 
 8915 | www.factcheck.org | A: At least one of his classmates remembers him well, and the university proudly claims Obama. 
 8918 | www.politifact.com | false 
-8918 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
+8918 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
 8922 | www.politifact.com | false 
 8923 | www.politifact.com | false 
 8929 | www.politifact.com | half-true, mostly-true 
@@ -3463,7 +3463,7 @@
 8948 | www.politifact.com | mostly-true, mostly-true, mostly-true, mostly-true 
 8951 | www.politifact.com | pants-fire, pants-fire, pants-fire, pants-fire 
 8952 | www.politifact.com | false, half-true 
-8952 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/07/public-citizens-misleading-math-on-the-korea-free-trade-agreement/?tid=a_inl' 
+8952 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/04/07/public-citizens-misleading-math-on-the-korea-free-trade-agreement/?tid=a_inl' 
 8956 | www.politifact.com | full-flop, mostly-true, mostly-true 
 8957 | www.snopes.com | abstain 
 8957 | www.factcheck.org | A: A spokeswoman for the first lady says that Michelle Obama currently has a staff of 24. That may indeed be the largest of any first lady, but Hillary Clinton, with 19 staffers, and Laura Bush with at least 18 and perhaps more, weren’t far behind. 
@@ -3486,7 +3486,7 @@
 8997 | www.factcheck.org | Q: Will people living in the U.S. illegally receive “amnesty bonuses” because of President Obama’s executive actions on immigration?
 9005 | www.politifact.com | pants-fire, false 
 9006 | www.politifact.com | half-true 
-9006 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/09/30/the-stale-claim-that-one-in-three-women-will-have-an-abortion-by-age-45/' 
+9006 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/09/30/the-stale-claim-that-one-in-three-women-will-have-an-abortion-by-age-45/' 
 9015 | www.politifact.com | pants-fire 
 9017 | www.factcheck.org | In seeking to repeal and replace the Affordable Care Act, Health and Human Services Secretary Tom Price has said “one out of every three physicians in this nation aren’t seeing Medicaid patients.” House Speaker Paul Ryan said “more and more doctors just won’t take Medicaid.” 
 9021 | www.politifact.com | false, false 
@@ -3529,7 +3529,7 @@
 9103 | www.factcheck.org | The Republican National Committee chairman says Hillary Clinton paid women in her Senate office less than men. But annual salary data provided by the Clinton campaign show median salaries for men and women in Clinton’s office were virtually identical. 
 9105 | www.politifact.com | false 
 9105 | www.snopes.com | abstain 
-9105 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/06/trumps-dubious-claim-that-the-911-hijackers-wives-knew-exactly-what-was-going-to-happen/' 
+9105 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/06/trumps-dubious-claim-that-the-911-hijackers-wives-knew-exactly-what-was-going-to-happen/' 
 9107 | www.politifact.com | barely-true 
 9109 | www.politifact.com | mostly-true 
 9113 | www.politifact.com | abstain, pants-fire, pants-fire 
@@ -3579,7 +3579,7 @@
 9230 | www.politifact.com | false, false, barely-true, barely-true, mostly-true, pants-fire 
 9230 | www.factcheck.org | Donald Trump’s once delayed, and much anticipated, speech on Hillary Clinton’s character, included numerous false and misleading statements: 
 9233 | www.politifact.com | mostly-true, half-true, true 
-9233 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/20/clintons-claim-of-working-with-democrats-and-republicans-to-create-a-child-health-program/' 
+9233 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/20/clintons-claim-of-working-with-democrats-and-republicans-to-create-a-child-health-program/' 
 9234 | www.politifact.com | abstain, false 
 9236 | www.politifact.com | pants-fire 
 9236 | www.factcheck.org | A: A viral e-mail calls for fixing some abuses and excesses that don’t exist, repeating misinformed claims that we’ve addressed before.  
@@ -3600,11 +3600,11 @@
 9276 | www.politifact.com | half-true 
 9277 | www.politifact.com | barely-true, half-true, mostly-true, false 
 9281 | www.politifact.com | pants-fire 
-9281 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/13/trumps-false-claim-that-clinton-lost-6-billion-at-state/' 
+9281 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/13/trumps-false-claim-that-clinton-lost-6-billion-at-state/' 
 9282 | www.politifact.com | barely-true, true, barely-true, false, half-true, true 
-9283 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/04/06/president-trumps-claim-without-evidence-that-susan-rice-may-have-committed-a-crime/?utm_term=.e667f3e97d0a' 
+9283 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/04/06/president-trumps-claim-without-evidence-that-susan-rice-may-have-committed-a-crime/?utm_term=.e667f3e97d0a' 
 9288 | www.politifact.com | true 
-9288 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/12/fact-checking-claims-by-donald-trumps-lawyer/?utm_term=.69c37f20d753' 
+9288 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/12/fact-checking-claims-by-donald-trumps-lawyer/?utm_term=.69c37f20d753' 
 9290 | www.politifact.com | true 
 9292 | www.realclearpolitics.com |  'http://www.realclearpolitics.com/articles/2015/05/14/huckabee_to_sign_his_own_tax_pledge_not_norquists.html',  'http://www.realclearpolitics.com/articles/2016/07/20/norquist_likes_what_he_sees_in_trumps_tax_plan_131255.html',  'http://www.realclearpolitics.com/articles/2015/05/02/jeb_still_wont_sign_grovers_anti-tax_pledge_126469.html' 
 9294 | www.politifact.com | false, barely-true 
@@ -3624,14 +3624,14 @@
 9328 | www.politifact.com | barely-true 
 9330 | www.realclearpolitics.com |  'http://www.realclearpolitics.com/epolls/2012/president/us/general_election_romney_vs_obama-1171.html#polls' 
 9332 | www.factcheck.org | Donald Trump continues to make the puffed-up assertion that Russian President Vladimir Putin called him a “genius.” Russian language experts tell us that Putin described Trump as “colorful” or maybe “bright,” depending on how one translates Putin’s words, but he never called Trump a genius. 
-9332 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/03/no-putin-did-not-call-donald-trump-a-genius/' 
+9332 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/03/no-putin-did-not-call-donald-trump-a-genius/' 
 9334 | www.politifact.com | mostly-true 
 9336 | www.politifact.com | half-true 
 9337 | www.politifact.com | barely-true 
-9342 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/07/sanderss-incorrect-claim-that-clinton-called-him-not-qualified-for-the-presidency/?hpid=hp_hp-top-table-main_factchecker-1050a%3Ahomepage%2Fstory' 
+9342 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/07/sanderss-incorrect-claim-that-clinton-called-him-not-qualified-for-the-presidency/?hpid=hp_hp-top-table-main_factchecker-1050a%3Ahomepage%2Fstory' 
 9346 | www.politifact.com | mostly-true, barely-true, true 
 9348 | www.politifact.com | barely-true 
-9348 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/12/trumps-false-claim-that-theres-nothing-to-learn-from-his-tax-returns/?tid=a_inl' 
+9348 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/12/trumps-false-claim-that-theres-nothing-to-learn-from-his-tax-returns/?tid=a_inl' 
 9355 | www.politifact.com | mostly-true 
 9357 | www.politifact.com | false, pants-fire 
 9360 | www.politifact.com | true, mostly-true, mostly-true, mostly-true 
@@ -3668,7 +3668,7 @@
 9433 | www.politifact.com | half-true 
 9434 | www.snopes.com | abstain 
 9441 | www.snopes.com | abstain 
-9441 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/25/no-donald-trump-theres-nothing-fishy-about-vince-fosters-suicide/?utm_term=.0d6725dd33e9' 
+9441 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/25/no-donald-trump-theres-nothing-fishy-about-vince-fosters-suicide/?utm_term=.0d6725dd33e9' 
 9441 | www.realclearpolitics.com |  'https://www.realclearpolitics.com/video/2017/05/03/comey_loretta_lynchs_tarmac_meeting_with_bill_clinton_forced_me_to_go_public_about_clinton_investigation.html' 
 9443 | www.politifact.com | mostly-true, mostly-true, mostly-true, mostly-true, mostly-true 
 9444 | www.politifact.com | mostly-true 
@@ -3824,7 +3824,7 @@
 9817 | www.politifact.com | mostly-true, abstain 
 9822 | www.politifact.com | half-true, pants-fire 
 9825 | www.politifact.com | mostly-true 
-9825 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/09/history-lesson-why-did-bill-clintons-north-korea-deal-fail/?utm_term=.471a4c9c00c5' 
+9825 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/09/history-lesson-why-did-bill-clintons-north-korea-deal-fail/?utm_term=.471a4c9c00c5' 
 9826 | www.politifact.com | half-true 
 9835 | www.politifact.com | pants-fire, pants-fire, mostly-true 
 9836 | www.politifact.com | half-true 
@@ -3896,12 +3896,12 @@
 10013 | www.politifact.com | half-true 
 10014 | www.politifact.com | false 
 10014 | www.snopes.com | abstain 
-10014 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/19/did-clinton-laugh-about-a-rapists-light-sentence-and-attack-sexual-harassment-victims/' 
+10014 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/19/did-clinton-laugh-about-a-rapists-light-sentence-and-attack-sexual-harassment-victims/' 
 10015 | www.politifact.com | abstain, true 
 10017 | www.politifact.com | mostly-true 
 10018 | www.politifact.com | true, true 
 10019 | www.politifact.com | pants-fire, mostly-true, false, barely-true, barely-true 
-10019 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/10/kamala-harriss-claim-that-129-million-people-with-preexisting-conditions-could-be-denied-coverage/?utm_term=.0d346eb4c6b1' 
+10019 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/10/kamala-harriss-claim-that-129-million-people-with-preexisting-conditions-could-be-denied-coverage/?utm_term=.0d346eb4c6b1' 
 10021 | www.politifact.com | false 
 10022 | www.politifact.com | abstain 
 10025 | www.snopes.com | abstain 
@@ -4036,13 +4036,13 @@
 10357 | www.politifact.com | barely-true 
 10367 | www.politifact.com | true 
 10376 | www.politifact.com | true 
-10376 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/02/04/the-missing-context-behind-a-widely-cited-statistic-that-there-are-22-veteran-suicides-a-day/' 
+10376 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/02/04/the-missing-context-behind-a-widely-cited-statistic-that-there-are-22-veteran-suicides-a-day/' 
 10379 | www.politifact.com | true 
 10382 | www.politifact.com | barely-true, half-true, barely-true, false, barely-true, barely-true 
 10385 | www.politifact.com | true, false, false 
 10386 | www.politifact.com | mostly-true, half-true 
 10400 | www.politifact.com | mostly-true, mostly-true 
-10400 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/11/02/senate-democrats-falsely-claim-gop-tax-plan-will-raise-taxes-for-most-working-class-families/?utm_term=.51b37f07e24d' 
+10400 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/11/02/senate-democrats-falsely-claim-gop-tax-plan-will-raise-taxes-for-most-working-class-families/?utm_term=.51b37f07e24d' 
 10402 | www.politifact.com | barely-true, barely-true, barely-true, barely-true, barely-true 
 10404 | www.politifact.com | true 
 10408 | www.politifact.com | mostly-true, false, barely-true 
@@ -4064,7 +4064,7 @@
 10453 | www.politifact.com | barely-true 
 10457 | www.politifact.com | mostly-true, mostly-true 
 10462 | www.politifact.com | barely-true, half-true 
-10462 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/25/heres-how-trump-got-the-ap-story-on-clinton-foundation-donors-all-wrong/' 
+10462 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/08/25/heres-how-trump-got-the-ap-story-on-clinton-foundation-donors-all-wrong/' 
 10463 | www.politifact.com | false, mostly-true 
 10474 | www.politifact.com | barely-true 
 10475 | www.politifact.com | half-true 
@@ -4187,7 +4187,7 @@
 10755 | www.politifact.com | half-true 
 10756 | www.politifact.com | barely-true, false, barely-true, pants-fire, pants-fire, barely-true, pants-fire 
 10756 | www.factcheck.org | Donald Trump’s once delayed, and much anticipated, speech on Hillary Clinton’s character, included numerous false and misleading statements: 
-10756 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
+10756 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
 10758 | www.politifact.com | half-true, half-true, half-true, pants-fire, half-true 
 10761 | www.politifact.com | barely-true, barely-true 
 10764 | www.politifact.com | half-true, false 
@@ -4219,7 +4219,7 @@
 10825 | www.politifact.com | mostly-true 
 10828 | www.politifact.com | barely-true 
 10828 | www.factcheck.org | The author of “Clinton Cash” falsely claimed Hillary Clinton as Secretary of State had “veto power” and “could have stopped” Russia from buying a company with extensive uranium mining operations in the U.S. In fact, only the president has such power. 
-10828 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
+10828 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
 10831 | www.politifact.com | half-true, half-true, half-true, barely-true, barely-true 
 10833 | www.politifact.com | abstain 
 10838 | www.politifact.com | mostly-true 
@@ -4238,7 +4238,7 @@
 10865 | www.snopes.com | abstain 
 10866 | www.politifact.com | half-true 
 10871 | www.politifact.com | barely-true, half-true 
-10871 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/26/600-requests-from-benghazi-for-better-security-what-this-statistic-really-means/' 
+10871 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/01/26/600-requests-from-benghazi-for-better-security-what-this-statistic-really-means/' 
 10875 | www.politifact.com | true, true 
 10879 | www.politifact.com | pants-fire, half-true, pants-fire 
 10880 | www.politifact.com | half-true, barely-true 
@@ -4263,11 +4263,11 @@
 10929 | www.snopes.com | abstain 
 10938 | www.politifact.com | mostly-true 
 10941 | www.politifact.com | mostly-true 
-10943 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/04/20/trumps-claim-that-no-administration-has-accomplished-more-in-the-first-90-days/?utm_term=.7ae06fafee4f' 
+10943 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/04/20/trumps-claim-that-no-administration-has-accomplished-more-in-the-first-90-days/?utm_term=.7ae06fafee4f' 
 10944 | www.politifact.com | false 
 10946 | www.politifact.com | barely-true 
 10948 | www.politifact.com | true, mostly-true, half-true 
-10951 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/11/fact-checking-the-fourth-round-of-gop-debates/' 
+10951 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/11/fact-checking-the-fourth-round-of-gop-debates/' 
 10957 | www.politifact.com | mostly-true 
 10957 | www.snopes.com | abstain 
 10957 | www.factcheck.org | A: No, with very few exceptions. The first $250,000 in profit from the sale of a personal residence won’t be taxed, or the first $500,000 in the case of a married couple. The tax falls on relatively few — those with high incomes from other sources.  
@@ -4348,7 +4348,7 @@
 11174 | www.politifact.com | barely-true, half-true 
 11176 | www.politifact.com | half-true 
 11178 | www.politifact.com | false 
-11182 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/28/why-donald-trump-calls-elizabeth-warren-pocahontas/' 
+11182 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/28/why-donald-trump-calls-elizabeth-warren-pocahontas/' 
 11184 | www.politifact.com | barely-true 
 11185 | www.politifact.com | abstain 
 11188 | www.politifact.com | true, mostly-true, barely-true 
@@ -4357,12 +4357,12 @@
 11193 | www.politifact.com | false, false, barely-true 
 11194 | www.politifact.com | barely-true, abstain, abstain 
 11194 | www.snopes.com | abstain 
-11194 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/12/31/claims-regarding-obamas-use-of-executive-orders-and-presidential-memoranda/?utm_term=.f623db8a945c' 
+11194 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/12/31/claims-regarding-obamas-use-of-executive-orders-and-presidential-memoranda/?utm_term=.f623db8a945c' 
 11199 | www.politifact.com | half-true 
 11201 | www.politifact.com | mostly-true 
 11202 | www.politifact.com | false, barely-true, half-true, barely-true 
 11205 | www.politifact.com | false, false 
-11206 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/30/a-guide-to-the-allegations-of-bill-clintons-womanizing/?tid=a_inl',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/29/pro-trump-groups-ad-misrepresents-hillary-clintons-comments-about-women/' 
+11206 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/30/a-guide-to-the-allegations-of-bill-clintons-womanizing/?tid=a_inl',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/29/pro-trump-groups-ad-misrepresents-hillary-clintons-comments-about-women/' 
 11210 | www.snopes.com | abstain 
 11211 | www.snopes.com | abstain 
 11213 | www.politifact.com | mostly-true 
@@ -4377,7 +4377,7 @@
 11247 | www.politifact.com | pants-fire, mostly-true, mostly-true, false, mostly-true, barely-true, mostly-true, false 
 11248 | www.politifact.com | mostly-true 
 11249 | www.politifact.com | mostly-true 
-11250 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/09/30/the-stale-claim-that-one-in-three-women-will-have-an-abortion-by-age-45/' 
+11250 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/09/30/the-stale-claim-that-one-in-three-women-will-have-an-abortion-by-age-45/' 
 11251 | www.politifact.com | true 
 11253 | www.politifact.com | mostly-true 
 11255 | www.politifact.com | true, half-true, half-true 
@@ -4394,7 +4394,7 @@
 11276 | www.snopes.com | abstain 
 11276 | www.factcheck.org | A: No. The school district fully integrated in 1968, and Harris began attending public school in first grade, in 1970. 
 11278 | www.factcheck.org | Republican presidential candidate Donald Trump exaggerates his prescience on the 9/11 terrorist attacks when he claims he “predicted Osama bin Laden” in a 2000 book. 
-11278 | www.washingtonpost.com/news/fact-checker/ | 'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/07/trumps-claim-that-he-predicted-osama-bin-laden/' 
+11278 | www.washingtonpost.com/news/fact-checker | 'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/07/trumps-claim-that-he-predicted-osama-bin-laden/' 
 11280 | www.politifact.com | true, mostly-true 
 11286 | www.politifact.com | half-flip, pants-fire 
 11288 | www.politifact.com | half-true 
@@ -4407,7 +4407,7 @@
 11315 | www.politifact.com | mostly-true, false 
 11317 | www.politifact.com | half-true, barely-true, false, barely-true, barely-true 
 11318 | www.politifact.com | mostly-true 
-11321 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/09/30/clintons-claim-that-the-bush-tax-cuts-played-a-large-part-in-sparking-2008-recession/' 
+11321 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/09/30/clintons-claim-that-the-bush-tax-cuts-played-a-large-part-in-sparking-2008-recession/' 
 11326 | www.politifact.com | pants-fire, false, false, pants-fire, false 
 11327 | www.politifact.com | barely-true 
 11329 | www.politifact.com | true 
@@ -4440,7 +4440,7 @@
 11399 | www.politifact.com | half-true 
 11402 | www.snopes.com | abstain 
 11404 | www.politifact.com | false, pants-fire, false, pants-fire 
-11404 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/11/27/trumps-bogus-claim-that-millions-of-people-voted-illegally-for-hillary-clinton/' 
+11404 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/11/27/trumps-bogus-claim-that-millions-of-people-voted-illegally-for-hillary-clinton/' 
 11410 | www.snopes.com | abstain 
 11411 | www.politifact.com | half-true, false 
 11412 | www.politifact.com | pants-fire 
@@ -4650,7 +4650,7 @@
 11950 | www.politifact.com | half-true, half-true 
 11952 | www.politifact.com | true 
 11957 | www.politifact.com | true, half-true 
-11961 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/29/ted-cruzs-claim-that-two-thirds-of-the-hurricane-sandy-bill-had-nothing-to-do-with-sandy/' 
+11961 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/29/ted-cruzs-claim-that-two-thirds-of-the-hurricane-sandy-bill-had-nothing-to-do-with-sandy/' 
 11962 | www.politifact.com | mostly-true 
 11963 | www.politifact.com | barely-true, barely-true 
 11964 | www.politifact.com | mostly-true 
@@ -4672,7 +4672,7 @@
 12003 | www.politifact.com | false 
 12005 | www.politifact.com | true, half-true, true, mostly-true 
 12019 | www.politifact.com | false 
-12019 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
+12019 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
 12019 | www.realclearpolitics.com |  'http://www.realclearpolitics.com/video/2016/02/21/trump_responds_to_howard_stern_interview_who_knows_what_was_in_my_head.html' 
 12028 | www.politifact.com | half-true, half-true, true, false 
 12031 | www.politifact.com | pants-fire 
@@ -4727,13 +4727,13 @@
 12152 | www.politifact.com | half-true 
 12153 | www.politifact.com | false, half-true, half-true, true 
 12157 | www.politifact.com | false 
-12157 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/07/neither-kaine-and-pence-was-absolutely-correct-about-clinton-emails-and-court-martial/' 
+12157 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/07/neither-kaine-and-pence-was-absolutely-correct-about-clinton-emails-and-court-martial/' 
 12159 | www.politifact.com | half-true 
 12162 | www.politifact.com | half-true, half-true 
 12162 | www.factcheck.org | A number of Republican House members say scientific research proves a 20-week-old fetus can feel pain. This is a complicated and controversial topic in science, but the ability to feel pain at that specific point in gestation is unproven. 
 12168 | www.politifact.com | abstain 
 12169 | www.politifact.com | mostly-true, mostly-true, false 
-12169 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/05/bernie-sanderss-false-claim-that-he-has-released-his-full-federal-tax-returns/' 
+12169 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/05/bernie-sanderss-false-claim-that-he-has-released-his-full-federal-tax-returns/' 
 12171 | www.politifact.com | mostly-true, half-true 
 12173 | www.politifact.com | mostly-true 
 12175 | www.politifact.com | false 
@@ -4809,7 +4809,7 @@
 12360 | www.politifact.com | half-true, false 
 12361 | www.politifact.com | barely-true, pants-fire 
 12366 | www.politifact.com | barely-true 
-12366 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/30/do-voter-id-laws-help-or-hurt-voter-turnout/?utm_term=.053b552652b5' 
+12366 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/30/do-voter-id-laws-help-or-hurt-voter-turnout/?utm_term=.053b552652b5' 
 12368 | www.politifact.com | false 
 12377 | www.politifact.com | half-true, barely-true, barely-true, mostly-true 
 12386 | www.politifact.com | mostly-true 
@@ -4833,7 +4833,7 @@
 12435 | www.politifact.com | pants-fire, pants-fire, pants-fire 
 12436 | www.snopes.com | abstain 
 12437 | www.politifact.com | half-true 
-12437 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/02/senate-democrats-misleading-language-on-a-60-vote-standard-for-supremer-court-nominees/?tid=a_inl&utm_term=.ff7418b0876f',  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/02/senate-democrats-misleading-language-on-a-60-vote-standard-for-supremer-court-nominees/?utm_term=.2bcfc1c0bdae' 
+12437 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/02/senate-democrats-misleading-language-on-a-60-vote-standard-for-supremer-court-nominees/?tid=a_inl&utm_term=.ff7418b0876f',  'https://www.washingtonpost.com/news/fact-checker/wp/2017/02/02/senate-democrats-misleading-language-on-a-60-vote-standard-for-supremer-court-nominees/?utm_term=.2bcfc1c0bdae' 
 12438 | www.politifact.com | pants-fire 
 12439 | www.politifact.com | false 
 12443 | www.politifact.com | pants-fire 
@@ -4887,10 +4887,10 @@
 12569 | www.politifact.com | half-true 
 12570 | www.politifact.com | false, barely-true 
 12570 | www.factcheck.org | Results of a national survey published in 2017 show that 13 percent of U.S. gun owners who purchased a firearm in the past two years did so without a background check. Sen. Bernie Sanders was wrong when he said recently that the figure was three times as high. 
-12570 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/02/20/bernie-sanders-resurrects-a-zombie-claim-on-gun-sales-without-background-checks/?utm_term=.32a6bb396a93' 
+12570 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/02/20/bernie-sanders-resurrects-a-zombie-claim-on-gun-sales-without-background-checks/?utm_term=.32a6bb396a93' 
 12571 | www.factcheck.org | Political leanings: Conservative/libertarian, Political leanings: Democratic 
 12574 | www.politifact.com | mostly-true 
-12574 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/20/pelosis-claim-that-an-estimated-1-8-million-jobs-will-be-lost-through-ahca/?utm_term=.85552f3611b1' 
+12574 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/20/pelosis-claim-that-an-estimated-1-8-million-jobs-will-be-lost-through-ahca/?utm_term=.85552f3611b1' 
 12575 | www.politifact.com | abstain, half-true 
 12580 | www.factcheck.org | Virginia Democrat Terry McAuliffe’s latest ad says Republican Ken Cuccinelli “twists the facts” by saying McAuliffe made millions from a company that went bankrupt, leaving thousands of workers unemployed and with worthless pension funds. 
 12581 | www.politifact.com | abstain 
@@ -4900,7 +4900,7 @@
 12587 | www.politifact.com | false 
 12590 | www.politifact.com | barely-true, pants-fire, pants-fire, barely-true, pants-fire 
 12590 | www.factcheck.org | Donald Trump’s once delayed, and much anticipated, speech on Hillary Clinton’s character, included numerous false and misleading statements: 
-12590 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
+12590 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/23/fact-checking-donald-trumps-attack-on-hillary-clinton/' 
 12594 | www.politifact.com | full-flop, full-flop 
 12598 | www.politifact.com | half-true, pants-fire, barely-true 
 12600 | www.politifact.com | mostly-true, pants-fire 
@@ -4908,14 +4908,14 @@
 12605 | www.snopes.com | abstain 
 12610 | www.politifact.com | mostly-true 
 12612 | www.politifact.com | false, half-true, half-true 
-12617 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/23/the-trump-administrations-bogus-spin-that-it-obtained-2-billion-for-school-safety/?utm_term=.b266ea0194e9' 
+12617 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/23/the-trump-administrations-bogus-spin-that-it-obtained-2-billion-for-school-safety/?utm_term=.b266ea0194e9' 
 12618 | www.politifact.com | true, true 
 12622 | www.politifact.com | pants-fire, pants-fire 
 12623 | www.politifact.com | mostly-true 
 12631 | www.politifact.com | false 
 12635 | www.politifact.com | false 
 12637 | www.politifact.com | false 
-12638 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/20/fact-checking-the-third-clinton-trump-presidential-debate/' 
+12638 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/10/20/fact-checking-the-third-clinton-trump-presidential-debate/' 
 12640 | www.politifact.com | half-true, barely-true, barely-true, half-true 
 12649 | www.politifact.com | half-true, mostly-true, pants-fire, barely-true, mostly-true, false, half-true, barely-true 
 12649 | www.factcheck.org | Sen. Ted Cruz falsely claims the 2013 immigration bill Sen. Marco Rubio co-sponsored “would have dramatically expanded President Obama’s authority to admit Syrian refugees with no background checks whatsoever,” making it “easier to bring Syrian Muslim refugees” to the U.S. 
@@ -4969,11 +4969,11 @@
 12788 | www.snopes.com | abstain 
 12788 | www.factcheck.org | Fake news is nothing new. But bogus stories can reach more people more quickly via social media than what good old-fashioned viral emails could accomplish in years past. 
 12789 | www.politifact.com | pants-fire, false, pants-fire, true, false, barely-true 
-12789 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/24/recidivism-watch-spicer-uses-repeatedly-debunked-citations-for-trumps-voter-fraud-claims/?utm_term=.592f39e4078e' 
+12789 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/24/recidivism-watch-spicer-uses-repeatedly-debunked-citations-for-trumps-voter-fraud-claims/?utm_term=.592f39e4078e' 
 12791 | www.politifact.com | false, half-true, true 
 12798 | www.politifact.com | false, barely-true 
 12798 | www.factcheck.org | Republican presidential candidate Donald Trump exaggerates his prescience on the 9/11 terrorist attacks when he claims he “predicted Osama bin Laden” in a 2000 book. 
-12798 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/07/trumps-claim-that-he-predicted-osama-bin-laden/' 
+12798 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/12/07/trumps-claim-that-he-predicted-osama-bin-laden/' 
 12800 | www.politifact.com | false, barely-true, half-true, false 
 12801 | www.politifact.com | barely-true, half-true 
 12802 | www.politifact.com | barely-true, half-true, half-true, half-true, true, full-flop 
@@ -5017,7 +5017,7 @@
 12907 | www.politifact.com | half-true 
 12908 | www.politifact.com | mostly-true 
 12908 | www.factcheck.org | Boasting about a decline in apprehensions at the U.S.-Mexico border on his watch, President Donald Trump falsely claimed that border apprehensions “didn’t go down” under “past administrations.” Actually, they declined in 10 of the last 16 fiscal years. 
-12908 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/01/president-trumps-claim-that-illegal-immigration-went-up-under-past-administrations/' 
+12908 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/01/president-trumps-claim-that-illegal-immigration-went-up-under-past-administrations/' 
 12913 | www.snopes.com | abstain 
 12917 | www.politifact.com | false 
 12919 | www.politifact.com | true 
@@ -5134,7 +5134,7 @@
 13210 | www.politifact.com | mostly-true, pants-fire 
 13214 | www.politifact.com | false 
 13217 | www.politifact.com | true 
-13219 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/16/president-trumps-false-claim-that-counter-demonstrators-lacked-a-permit/?hpid=hp_rhp-top-table-main_factchecker-permit-745pm%3Ahomepage%2Fstory&utm_term=.9471ae2b3e98' 
+13219 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/08/16/president-trumps-false-claim-that-counter-demonstrators-lacked-a-permit/?hpid=hp_rhp-top-table-main_factchecker-permit-745pm%3Ahomepage%2Fstory&utm_term=.9471ae2b3e98' 
 13223 | www.politifact.com | mostly-true, half-true, half-true 
 13229 | www.politifact.com | mostly-true, false, false, false, mostly-true 
 13231 | www.politifact.com | half-true 
@@ -5171,7 +5171,7 @@
 13310 | www.politifact.com | false 
 13311 | www.politifact.com | mostly-true 
 13312 | www.politifact.com | half-true, false, mostly-true, half-true 
-13316 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/30/is-hillary-clinton-a-liar-on-benghazi/?tid=pm_politics_pop_b&utm_term=.32d482d793c7' 
+13316 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/30/is-hillary-clinton-a-liar-on-benghazi/?tid=pm_politics_pop_b&utm_term=.32d482d793c7' 
 13323 | www.snopes.com | abstain 
 13324 | www.politifact.com | false 
 13327 | www.politifact.com | mostly-true 
@@ -5221,7 +5221,7 @@
 13416 | www.politifact.com | half-true 
 13418 | www.politifact.com | pants-fire 
 13419 | www.politifact.com | barely-true, half-true, false, half-true, mostly-true, false, mostly-true, half-true, half-true, barely-true 
-13419 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/10/kamala-harriss-claim-that-129-million-people-with-preexisting-conditions-could-be-denied-coverage/?noredirect=on&utm_term=.69e6af0aac91' 
+13419 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/10/kamala-harriss-claim-that-129-million-people-with-preexisting-conditions-could-be-denied-coverage/?noredirect=on&utm_term=.69e6af0aac91' 
 13428 | www.factcheck.org | Political leanings: Pro-President Trump
 13429 | www.politifact.com | false, barely-true 
 13430 | www.politifact.com | pants-fire 
@@ -5249,7 +5249,7 @@
 13487 | www.politifact.com | abstain, false, pants-fire, pants-fire, false, false, false, false, pants-fire, pants-fire, pants-fire, false, pants-fire, pants-fire, pants-fire, pants-fire, pants-fire, false, pants-fire 
 13487 | www.snopes.com | abstain 
 13489 | www.politifact.com | false, barely-true, mostly-true 
-13489 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/07/17/no-president-trump-youve-havent-signed-more-bills-than-any-president/?utm_term=.c1be554eba7c' 
+13489 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/07/17/no-president-trump-youve-havent-signed-more-bills-than-any-president/?utm_term=.c1be554eba7c' 
 13490 | www.factcheck.org | Chris Christie is misrepresenting the facts about New Jersey union contract negotiations under his predecessor. 
 13492 | www.politifact.com | barely-true 
 13492 | www.factcheck.org | A: No. The debt hasn't doubled, and of the 24 claims only six are true. We found another seven to be partly true, and the rest to be false, misleading or exaggerated. 
@@ -5278,7 +5278,7 @@
 13553 | www.politifact.com | half-true 
 13555 | www.realclearpolitics.com | 'http://www.realclearpolitics.com/video/2014/10/03/bill_maher_vs_ben_affleck_on_islam_mafia_that_will_fucking_kill_you_if_you_say_the_wrong_thing.html' 
 13565 | www.politifact.com | true 
-13565 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/23/trumps-claim-about-the-catastrophe-of-obamacare-premiums-increasing-204-percent-in-alaska/?utm_term=.2c6d4a841ad2' 
+13565 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/23/trumps-claim-about-the-catastrophe-of-obamacare-premiums-increasing-204-percent-in-alaska/?utm_term=.2c6d4a841ad2' 
 13570 | www.politifact.com | false, barely-true 
 13570 | www.factcheck.org | CLEVELAND — In accepting his party’s nomination for president, Donald Trump said “here, at our convention, there will be no lies.” But we found plenty of instances where Trump twisted facts or made false claims. 
 13571 | www.politifact.com | mostly-true 
@@ -5311,10 +5311,10 @@
 13651 | www.politifact.com | barely-true, pants-fire, half-true, barely-true, half-true 
 13652 | www.politifact.com | false, false 
 13654 | www.politifact.com | abstain, half-true, barely-true 
-13654 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/04/04/president-trumps-claim-that-democrats-created-catch-and-release-policies/?noredirect=on&utm_term=.31bb67938415' 
+13654 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/04/04/president-trumps-claim-that-democrats-created-catch-and-release-policies/?noredirect=on&utm_term=.31bb67938415' 
 13656 | www.snopes.com | abstain 
 13659 | www.politifact.com | barely-true 
-13659 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/04/rep-ann-kirkpatrick-campaigns-misleading-attack-on-sen-john-mccains-support-for-the-dream-act/' 
+13659 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/04/rep-ann-kirkpatrick-campaigns-misleading-attack-on-sen-john-mccains-support-for-the-dream-act/' 
 13659 | www.realclearpolitics.com |  'http://www.realclearpolitics.com/articles/2008/02/john_mccains_cpac_speech.html' 
 13663 | www.politifact.com | half-true 
 13666 | www.politifact.com | barely-true, mostly-true 
@@ -5325,7 +5325,7 @@
 13679 | www.politifact.com | true 
 13680 | www.politifact.com | mostly-true, false 
 13692 | www.politifact.com | half-true 
-13692 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/11/16/schumers-claim-that-the-gop-is-kicking-13-million-people-off-of-health-insurance/?utm_term=.1bde6052553b' 
+13692 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/11/16/schumers-claim-that-the-gop-is-kicking-13-million-people-off-of-health-insurance/?utm_term=.1bde6052553b' 
 13694 | www.politifact.com | true 
 13701 | www.politifact.com | half-true 
 13705 | www.politifact.com | barely-true 
@@ -5358,14 +5358,14 @@
 13789 | www.politifact.com | mostly-true, mostly-true, false, abstain, abstain 
 13791 | www.politifact.com | false 
 13791 | www.snopes.com | abstain 
-13792 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/12/hillary-clintons-claim-that-the-highest-per-capita-number-of-crime-guns-in-new-york-come-from-vermont/' 
+13792 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/12/hillary-clintons-claim-that-the-highest-per-capita-number-of-crime-guns-in-new-york-come-from-vermont/' 
 13795 | www.politifact.com | mostly-true 
 13795 | www.factcheck.org | An Obama campaign film, narrated by actor Tom Hanks, casts the president, not surprisingly, in the best light. But the 17-minute video lacks context and takes liberties with some facts on health care and the auto bailout: 
 13797 | www.politifact.com | half-true 
 13798 | www.politifact.com | true, mostly-true 
 13802 | www.politifact.com | pants-fire 
 13803 | www.politifact.com | barely-true, barely-true 
-13803 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/06/no-the-gop-health-bill-doesnt-classify-rape-or-sexual-assault-as-a-preexisting-condition/?utm_term=.b821ea974a72' 
+13803 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/05/06/no-the-gop-health-bill-doesnt-classify-rape-or-sexual-assault-as-a-preexisting-condition/?utm_term=.b821ea974a72' 
 13804 | www.politifact.com | pants-fire 
 13806 | www.politifact.com | mostly-true 
 13817 | www.politifact.com | mostly-true, true 
@@ -5383,16 +5383,16 @@
 13856 | www.politifact.com | mostly-true 
 13857 | www.politifact.com | false 
 13858 | www.politifact.com | barely-true 
-13860 | www.washingtonpost.com/news/fact-checker/ | 'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
+13860 | www.washingtonpost.com/news/fact-checker | 'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
 13861 | www.politifact.com | false 
 13862 | www.politifact.com | barely-true 
 13864 | www.politifact.com | false 
 13866 | www.politifact.com | half-true 
 13871 | www.politifact.com | true, barely-true 
 13875 | www.politifact.com | barely-true, barely-true, false, false, barely-true 
-13878 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/15/the-bogus-claim-that-a-map-of-crosshairs-by-sarah-palins-pac-incited-rep-gabby-giffordss-shooting/?utm_term=.cbbac533c538' 
+13878 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/06/15/the-bogus-claim-that-a-map-of-crosshairs-by-sarah-palins-pac-incited-rep-gabby-giffordss-shooting/?utm_term=.cbbac533c538' 
 13882 | www.politifact.com | half-true, barely-true, false 
-13882 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/03/16/does-the-senate-have-a-constitutional-responsibility-to-consider-a-supreme-court-nomination/',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/24/a-recent-supreme-court-appointment-in-an-election-year-without-controversy/' 
+13882 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/03/16/does-the-senate-have-a-constitutional-responsibility-to-consider-a-supreme-court-nomination/',  'https://www.washingtonpost.com/news/fact-checker/wp/2016/02/24/a-recent-supreme-court-appointment-in-an-election-year-without-controversy/' 
 13885 | www.politifact.com | mostly-true 
 13888 | www.politifact.com | half-true, barely-true 
 13899 | www.politifact.com | mostly-true 
@@ -5531,7 +5531,7 @@
 14271 | www.snopes.com | abstain 
 14277 | www.politifact.com | half-true 
 14281 | www.politifact.com | half-true 
-14285 | www.washingtonpost.com/news/fact-checker/ | 'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
+14285 | www.washingtonpost.com/news/fact-checker | 'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/21/donald-trumps-baseless-claim-that-the-bush-white-house-tried-to-silence-his-iraq-war-opposition-in-2003/' 
 14287 | www.realclearpolitics.com | 'http://www.realclearpolitics.com/video/2011/02/17/rep_paul_ryan_on_wisconsin_protests_like_cairo_moved_to_madison.html' 
 14288 | www.politifact.com | false 
 14289 | www.politifact.com | half-flip, barely-true, barely-true, barely-true 
@@ -5554,7 +5554,7 @@
 14335 | www.politifact.com | mostly-true, true, mostly-true, mostly-true, mostly-true 
 14336 | www.politifact.com | barely-true, barely-true, half-true, half-true, barely-true, mostly-true 
 14337 | www.politifact.com | half-true, false, half-true 
-14337 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/07/31/clintons-claim-that-the-fbi-director-said-her-email-answers-were-truthful/',  'https://www.washingtonpost.com/news/fact-checker/wp/2015/08/27/clintons-claims-about-receiving-or-sending-classified-material-on-her-private-email-system/?tid=a_inl' 
+14337 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/07/31/clintons-claim-that-the-fbi-director-said-her-email-answers-were-truthful/',  'https://www.washingtonpost.com/news/fact-checker/wp/2015/08/27/clintons-claims-about-receiving-or-sending-classified-material-on-her-private-email-system/?tid=a_inl' 
 14341 | www.politifact.com | false 
 14343 | www.politifact.com | false 
 14344 | www.politifact.com | false 
@@ -5576,7 +5576,7 @@
 14374 | www.snopes.com | abstain, abstain 
 14376 | www.politifact.com | mostly-true, mostly-true, barely-true, half-true, barely-true 
 14376 | www.factcheck.org | The question won’t go away: Did President Obama and administration officials mislead the public when they initially claimed that the deadly Sept. 11 attack on the U.S. consulate in Benghazi began “spontaneously” in response to an anti-Muslim video? 
-14376 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/30/is-hillary-clinton-a-liar-on-benghazi/' 
+14376 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/10/30/is-hillary-clinton-a-liar-on-benghazi/' 
 14377 | www.politifact.com | mostly-true 
 14378 | www.politifact.com | half-true 
 14380 | www.politifact.com | abstain, abstain 
@@ -5664,16 +5664,16 @@
 14589 | www.politifact.com | false 
 14591 | www.politifact.com | false, mostly-true 
 14591 | www.factcheck.org | In one of the more memorable exchanges of the Republican debate, Sen. Marco Rubio said he was “puzzled” by Sen. Ted Cruz’s attacks on his immigration position, because Cruz himself “supports[s] legalizing people who are in this country illegally.” 
-14591 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/04/pro-trump-super-pac-misleads-viewers-about-ted-cruzs-stance-on-refugees-and-immigration/' 
+14591 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/04/04/pro-trump-super-pac-misleads-viewers-about-ted-cruzs-stance-on-refugees-and-immigration/' 
 14592 | www.politifact.com | pants-fire 
 14592 | www.snopes.com | abstain 
 14596 | www.politifact.com | pants-fire 
 14599 | www.snopes.com | abstain 
 14601 | www.politifact.com | half-true, mostly-true 
-14601 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/11/24/did-george-h-w-bush-really-shield-1-5-million-illegal-immigrants-nope/?utm_term=.9e4362280e00' 
+14601 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2014/11/24/did-george-h-w-bush-really-shield-1-5-million-illegal-immigrants-nope/?utm_term=.9e4362280e00' 
 14603 | www.politifact.com | pants-fire, barely-true, false, pants-fire 
 14604 | www.politifact.com | false, false 
-14604 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/28/trumps-claim-that-it-is-very-tough-for-christian-syrians-to-get-to-the-united-states/?utm_term=.0ddba04bc7e0' 
+14604 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/01/28/trumps-claim-that-it-is-very-tough-for-christian-syrians-to-get-to-the-united-states/?utm_term=.0ddba04bc7e0' 
 14616 | www.politifact.com | barely-true, barely-true 
 14620 | www.politifact.com | mostly-true, mostly-true 
 14623 | www.politifact.com | mostly-true 
@@ -5684,7 +5684,7 @@
 14649 | www.politifact.com | barely-true 
 14651 | www.politifact.com | mostly-true, pants-fire, pants-fire 
 14651 | www.snopes.com | abstain 
-14653 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/27/trump-campaigns-unsupported-claim-that-state-department-gave-55-million-to-laureate-universities-which-hired-bill-clinton/' 
+14653 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2016/06/27/trump-campaigns-unsupported-claim-that-state-department-gave-55-million-to-laureate-universities-which-hired-bill-clinton/' 
 14655 | www.politifact.com | pants-fire, mostly-true, false 
 14656 | www.politifact.com | false, barely-true, false, barely-true 
 14660 | www.politifact.com | half-true, true, half-true 
@@ -5695,7 +5695,7 @@
 14671 | www.factcheck.org | A: The airline and an eyewitness say this e-mailed claim is "an urban legend" spread by persons who "live in a fantasy world."
 14672 | www.politifact.com | false, mostly-true 
 14673 | www.snopes.com | abstain 
-14674 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/05/ben-carsons-absurd-notion-that-the-founding-fathers-had-no-elected-office-experience/' 
+14674 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2015/11/05/ben-carsons-absurd-notion-that-the-founding-fathers-had-no-elected-office-experience/' 
 14677 | www.politifact.com | false, mostly-true 
 14679 | www.politifact.com | mostly-true, true, barely-true 
 14680 | www.politifact.com | full-flop 
@@ -5706,7 +5706,7 @@
 14696 | www.politifact.com | pants-fire 
 14700 | www.factcheck.org | abstain 
 14701 | www.realclearpolitics.com |  'http://www.realclearpolitics.com/epolls/2014/governor/pa/pennsylvania_governor_corbett_vs_wolf-3535.html' 
-14702 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/15/pences-claim-that-religion-in-america-isnt-receding-its-just-the-opposite/?utm_term=.ca293be0a90d' 
+14702 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/05/15/pences-claim-that-religion-in-america-isnt-receding-its-just-the-opposite/?utm_term=.ca293be0a90d' 
 14710 | www.politifact.com | pants-fire 
 14712 | www.politifact.com | pants-fire 
 14713 | www.politifact.com | barely-true, mostly-true, half-true 
@@ -5776,7 +5776,7 @@
 14857 | www.politifact.com | mostly-true 
 14859 | www.politifact.com | mostly-true 
 14861 | www.politifact.com | false, barely-true 
-14861 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/28/do-80-percent-of-americans-oppose-sanctuary-cities/?utm_term=.1277168c4f0c' 
+14861 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2017/03/28/do-80-percent-of-americans-oppose-sanctuary-cities/?utm_term=.1277168c4f0c' 
 14863 | www.politifact.com | abstain 
 14867 | www.politifact.com | half-true 
 14868 | www.factcheck.org | Former House Majority Leader Tom DeLay resorted to hyperbole Wednesday when he claimed that he was tried and convicted for money laundering in the nation’s most liberal county. It’s liberal all right, but dozens of other counties are more so. 
@@ -5828,7 +5828,7 @@
 14994 | www.politifact.com | barely-true, false, barely-true 
 14997 | www.politifact.com | half-true 
 15010 | www.politifact.com | true 
-15014 | www.washingtonpost.com/news/fact-checker/ | 'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/12/trumps-false-claim-that-theres-nothing-to-learn-from-his-tax-returns/?tid=a_inl' 
+15014 | www.washingtonpost.com/news/fact-checker | 'https://www.washingtonpost.com/news/fact-checker/wp/2016/05/12/trumps-false-claim-that-theres-nothing-to-learn-from-his-tax-returns/?tid=a_inl' 
 15020 | www.politifact.com | half-true 
 15022 | www.politifact.com | pants-fire 
 15024 | www.politifact.com | barely-true 
@@ -5845,7 +5845,7 @@
 15058 | www.politifact.com | abstain, false, false, barely-true 
 15060 | www.politifact.com | false, false, false, false, false, false, false 
 15065 | www.politifact.com | barely-true, pants-fire, false 
-15065 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/01/05/president-trumps-claim-that-mostly-democratic-states-refused-to-provide-voter-data/?utm_term=.7684295a8aab' 
+15065 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/01/05/president-trumps-claim-that-mostly-democratic-states-refused-to-provide-voter-data/?utm_term=.7684295a8aab' 
 15067 | www.politifact.com | true 
 15070 | www.snopes.com | abstain 
 15072 | www.politifact.com | half-true, false 
@@ -5871,7 +5871,7 @@
 15128 | factcheck.afp.com | A Facebook post shared thousands of times claims seven children died in Senegal after being given a COVID-19 vaccine. This is false; scientists are still working to find a vaccine and Senegal’s health ministry told AFP the incident never happened. The video in the post actually shows people gathering after they heard rumours that a door-to-door salesman was vaccinating locals. 
 15129 | www.politifact.com | barely-true 
 15131 | www.politifact.com | true, mostly-true 
-15132 | www.washingtonpost.com/news/fact-checker/ |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/07/25/no-hhs-secretary-azar-did-not-say-zero-tolerance-children-received-a-great-act-of-american-generosity/?utm_term=.d1c628364ccb' 
+15132 | www.washingtonpost.com/news/fact-checker |  'https://www.washingtonpost.com/news/fact-checker/wp/2018/07/25/no-hhs-secretary-azar-did-not-say-zero-tolerance-children-received-a-great-act-of-american-generosity/?utm_term=.d1c628364ccb' 
 15134 | www.politifact.com | barely-true 
 15135 | www.politifact.com | true, true, mostly-true, mostly-true 
 15136 | www.politifact.com | full-flop, mostly-true 
